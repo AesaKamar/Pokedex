@@ -10,7 +10,8 @@ class PokemonsController < ApplicationController
   # GET /pokemons/1
   # GET /pokemons/1.json
   def show
-    
+    @pokemons = Pokemon.all
+    # render partial: @pokemon
   end
 
   # GET /pokemons/new
@@ -70,6 +71,6 @@ class PokemonsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def pokemon_params
-      params.require(:pokemon).permit(:number, :name, :type1, :type2, :entry)
+      params.require(:pokemon).permit(:number, :name, :type1, :type2, :entry, :hp, :atk, :def, :spatk, :spdef, :spe)
     end
 end

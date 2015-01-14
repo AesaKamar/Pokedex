@@ -14,7 +14,7 @@
 ActiveRecord::Schema.define(version: 20150106153942) do
 
   create_table "pokemons", force: true do |t|
-    t.integer  "number"
+    t.integer  "number" 
     t.string   "name"
     t.string   "type1"
     t.string   "type2"

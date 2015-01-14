@@ -7,7 +7,7 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 pokemons = Pokemon.create([
-  {number:   1, name: 'Bulbasaur',  type1: 'grass'},
+  {number:   1, name: 'Bulbasaur',  type1: 'grass', hp: 45, atk: 49, def: 49, spatk: 65, spdef: 65, spe: 45},
   {number:   2, name: 'Ivysaur',    type1: 'grass', type2: 'poison'},
   {number:   3, name: 'Venusaur',   type1: 'grass', type2: 'poison'},
 
@@ -30,6 +30,8 @@ pokemons = Pokemon.create([
   {number: 158, name: 'Totodile',   type1: 'water'},
   {number: 159, name: 'Croconaw',   type1: 'water'},
   {number: 160, name: 'Feraligatr', type1: 'water'},
+
+  {number: 493, name: 'Arceus',     type1: 'normal', hp: 120, atk: 120, def: 120, spatk: 120, spdef: 120, spe: 120},
 
   {number: 662, name: 'Fletchinder', type1: 'fire', type2: 'flying'}
   ])

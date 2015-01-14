@@ -1,7 +1,7 @@
 <div class="container">
   <!-- Head of Table can go here-->
   <% @pokemons.each do |pokemon| %>
-    <%= link_to (pokemon) do%>
+    <%= link_to (pokemon), remote: true do%>
       <div class="row">
         <span class = "col-xs-2 vcenter">
           <%= pokemon.number.to_s.rjust(3,'0') %>
