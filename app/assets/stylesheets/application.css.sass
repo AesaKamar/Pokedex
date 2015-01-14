@@ -1,0 +1,51 @@
+@import "bootstrap-sprockets"
+@import "bootstrap"
+
+body, html, .container
+  height: 100%
+  width: 100%
+  padding-right: 0
+  margin-right: 0
+
+.col-xs-7
+  height: 100%
+  overflow-y: auto
+  overflow-x: hidden
+
+.row
+  height: 10%
+  //border: 1px solid #140086
+
+
+.pixelated
+  image-rendering: optimizeSpeed
+  image-rendering: -moz-crisp-edges
+  image-rendering: -o-crisp-edges
+  image-rendering: -webkit-optimize-contrast
+  image-rendering: optimize-contrast
+  -ms-interpolation-mode: nearest-neighbor
+
+
+.vcenter
+  //border: 2px solid #0ab6ff
+  height: 100%
+  display: inline-block
+  font-size: 3vh
+  padding-left: 0
+
+
+.smImg
+  width: auto
+  height: 100%
+  float: left
+
+//TODO scale images to be proportional to original size once db is updated
+.lgImg
+  width: auto
+  height: 20vh
+  display: block
+  margin: auto
+
+.lgImgHolder
+  height: 30%
+  border: 2px solid #0ab6ff

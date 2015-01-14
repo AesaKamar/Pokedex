@@ -1,0 +1,21 @@
+<div class="container">
+  <!-- Head of Table can go here-->
+  <% @pokemons.each do |pokemon| %>
+    <%= link_to (pokemon) do%>
+      <div class="row">
+        <span class = "col-xs-2 vcenter">
+          <%= pokemon.number.to_s.rjust(3,'0') %>
+        </span>
+        <span class = "col-xs-4 vcenter">
+          <%= image_tag pokemon.number.to_s.rjust(3,'0') + ".png", :class => "smImg pixelated"  %>
+        </span>
+        <span class = "col-xs-6 vcenter">
+          <%= pokemon.name %>
+        </span>
+      </div>
+    <% end %>
+  <% end %>
+</div>
+
+
+<br>

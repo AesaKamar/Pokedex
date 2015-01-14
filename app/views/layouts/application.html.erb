@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pokedex</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+  <link rel="shortcut icon" href="/assets/">
+</head>
+<body>
+
+
+  <div id= "main-container" class= "container">
+    <div class="col-xs-4">
+      <h1>Pokedex</h1>
+    </div>
+    <div class="col-xs-1">
+      <h3>Gen</h3>
+    </div>
+    <div id= "poketable" class = "col-xs-7">
+      <%= yield %>
+    </div>
+  </div>
+
+</body>
+</html>
