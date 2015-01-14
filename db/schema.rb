@@ -18,14 +18,12 @@ ActiveRecord::Schema.define(version: 20150106153942) do
     t.string   "name"
     t.string   "type1"
     t.string   "type2"
-
     t.integer  "hp"
     t.integer  "atk"
     t.integer  "spatk"
     t.integer  "def"
     t.integer  "spdef"
     t.integer  "spe"
-
     t.text     "entry"
     t.datetime "created_at"
     t.datetime "updated_at"
