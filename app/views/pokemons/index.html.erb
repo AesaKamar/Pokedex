@@ -1,8 +1,8 @@
 <div class="container">
   <!-- Head of Table can go here-->
   <% @pokemons.each do |pokemon| %>
-    <%= link_to (pokemon), remote: true do%>
-      <div class="row">
+    <%= link_to (pokemon), method: :get, remote: true do%>
+      <%= div_for(pokemon, class: "row" ) do%>
         <span class = "col-xs-2 vcenter">
           <%= pokemon.number.to_s.rjust(3,'0') %>
         </span>
@@ -12,7 +12,7 @@
         <span class = "col-xs-6 vcenter">
           <%= pokemon.name %>
         </span>
-      </div>
+      <% end %>
     <% end %>
   <% end %>
 </div>

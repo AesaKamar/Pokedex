@@ -1,1 +1,8 @@
-$('#content').html("<%= j render(:partial => 'welcome/enjoy') %>")
+$('div#ajaxImg').html("<%= j (image_tag @pokemon.name.downcase + ".gif", :class => "lgImg") %>");
+
+$('#hp').width('<%= j ((@pokemon.hp*100/255).to_s) %>%')
+$('#atk').width('<%= j ((@pokemon.atk*100/255).to_s) %>%')
+$('#def').width('<%= j ((@pokemon.def*100/255).to_s) %>%')
+$('#spatk').width('<%= j ((@pokemon.spatk*100/255).to_s) %>%')
+$('#spdef').width('<%= j ((@pokemon.spdef*100/255).to_s) %>%')
+$('#spe').width('<%= j ((@pokemon.spe*100/255).to_s) %>%')
