@@ -4,7 +4,7 @@ class PokemonsController < ApplicationController
   # GET /pokemons
   # GET /pokemons.json
   def index
-    @pokemons = Pokemon.all
+    @pokemons = Pokemon.where(form: "None")
   end
 
   # GET /pokemons/1
