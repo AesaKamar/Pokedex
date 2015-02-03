@@ -4,14 +4,17 @@ class PokemonsController < ApplicationController
   # GET /pokemons
   # GET /pokemons.json
   def index
-    @pokemons = Pokemon.all
+    @pokemons = Pokemon.where(form: "None")
   end
 
   # GET /pokemons/1
   # GET /pokemons/1.json
   def show
-    @pokemons = Pokemon.all
-    # render partial: @pokemon
+    @pokemon = Pokemon.find(params[:id])
+    respond_to do |format|
+      format.json
+      format.js
+    end
   end
 
   # GET /pokemons/new
