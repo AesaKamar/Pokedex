@@ -4,7 +4,9 @@ class PokemonsController < ApplicationController
   # GET /pokemons
   # GET /pokemons.json
   def index
-    @pokemons = Pokemon.where(form: "None")
+	  @gen1 = Pokemon.where(form: "None").where("number >=1 AND number<= 151")
+	  @pokemons = @gen1
+	  #@pokemons = Pokemon.where(form: "None").where("number <= 10")
   end
 
   # GET /pokemons/1
