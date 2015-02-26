@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :abilities
+
   resources :pokemons
 
 root 'pokemons#index'
