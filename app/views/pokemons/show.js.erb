@@ -1,5 +1,18 @@
 $('div#ajaxImg').html("<%= j (image_tag @pokemon.name.downcase + ".gif", :class => "lgImg") %>");
 
+
+$('img.lgImg').load(function(){
+    var height, width;
+    height = $('img.lgImg').height();
+    width = $('img.lgImg').width();
+    console.log(width, height);
+    var scaling = 2;
+
+    $('img.lgImg').css({height : scaling*height});
+
+});
+
+
 $('#hp').width('<%= j ((@pokemon.hp*100/255).to_s) %>%')
 $('#atk').width('<%= j ((@pokemon.atk*100/255).to_s) %>%')
 $('#def').width('<%= j ((@pokemon.def*100/255).to_s) %>%')

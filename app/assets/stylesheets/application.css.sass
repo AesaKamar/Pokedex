@@ -14,6 +14,10 @@ body, html, .container
   overflow-x: hidden
   -webkit-overflow-scrolling: touch
 
+
+.col-xs-5
+  height: 100%
+
 .row
   height: 10%
   //border: 1px solid #140086
@@ -44,7 +48,7 @@ body, html, .container
 //TODO scale images to be proportional to original size once db is updated
 .lgImg
   width: auto
-  height: 20vh
+  height: auto
   display: block
   margin: auto
   vertical-align: bottom
@@ -53,7 +57,7 @@ body, html, .container
   width: 100%
   height: 30vh
   display: table-cell
-
+  vertical-align: bottom
 
 
 
@@ -62,6 +66,10 @@ body, html, .container
 
 
 // THINGS DEALING WITH PROGRESS BARS
+.progressHolder
+  position: absolute
+  bottom: 0
+
 .progress-bar
   padding: 10px
   color: red
