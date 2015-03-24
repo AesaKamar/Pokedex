@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
-  resources :abilities
-
-  resources :pokemons
+    with_options only: [:index, :show] do |x|
+        x.resources :abilities
+        x.resources :pokemons
+    end
 
 root 'pokemons#index'
 
