@@ -27,7 +27,11 @@ with open("pokedex.txt",'r') as f:
 	data = f.readlines()
 data2 = []
 for x in data:
-	data2.append(colonSplicer(x))
+	data2.append(colonSplicer(x).replace(';',''))
 
 with open('pokedexData.json','w') as out:
 	out.writelines(data2)
+
+with open("pokedexData.json") as check:
+	d = json.load(check)
+pprint(d)
