@@ -37,7 +37,6 @@ ActiveRecord::Schema.define(version: 201_503_031_933_07) do
     t.text      :pokedexOR
     t.text      :pokedexAS
     t.json      :learnset
-
   end
 
 end
