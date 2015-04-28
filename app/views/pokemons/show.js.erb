@@ -13,10 +13,10 @@ $('img.lgImg').load(function(){
 });
 
 
-$('#hp').width('<%= j ((@pokemon.hp*100/255).to_s) %>%')
-$('#atk').width('<%= j ((@pokemon.atk*100/255).to_s) %>%')
-$('#def').width('<%= j ((@pokemon.def*100/255).to_s) %>%')
-$('#spatk').width('<%= j ((@pokemon.spatk*100/255).to_s) %>%')
-$('#spdef').width('<%= j ((@pokemon.spdef*100/255).to_s) %>%')
-$('#spe').width('<%= j ((@pokemon.spe*100/255).to_s) %>%')
+$('#hp').width('<%= j ((@pokemon.baseStats[0]*100/255).to_s) %>%')
+$('#atk').width('<%= j ((@pokemon.baseStats[1]*100/255).to_s) %>%')
+$('#def').width('<%= j ((@pokemon.baseStats[2]*100/255).to_s) %>%')
+$('#spatk').width('<%= j ((@pokemon.baseStats[3]*100/255).to_s) %>%')
+$('#spdef').width('<%= j ((@pokemon.baseStats[4]*100/255).to_s) %>%')
+$('#spe').width('<%= j ((@pokemon.baseStats[5]*100/255).to_s) %>%')
 //

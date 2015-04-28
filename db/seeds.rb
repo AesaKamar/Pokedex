@@ -13,17 +13,20 @@ a.each do |ability|
 		name: 					ability['name'],
 		description: 		ability['description']
 	)
+	puts "Created ability, #{ability['name']}"
 end
+
+
 
 puts "\nPASSING ABILITIES\n"
 
 
 allData['pokemon'].each do |pokemon|
-	#get ability array for that pokemon
-	abs = pokemon['abilities']
-	abs.map!{ |element|
-		Ability.find(element)
-	}
+# 	#get ability array for that pokemon
+# 	abs = pokemon['abilities']
+# 	abs.map!{ |element|
+# 		Ability.find(element)
+# 	}
 
 
 	Pokemon.create(
@@ -31,7 +34,7 @@ allData['pokemon'].each do |pokemon|
 		name: 						pokemon['name'],
 		species: 					pokemon['species'],
 		types: 						pokemon['types'],
-		abilities: 				abs,
+		abilities: 				pokemon['abilities'],
 		genderThreshold: 	pokemon['genderThreshold'],
 		catchRate: 				pokemon['catchRate'],
 		eggGroups: 				pokemon['eggGroup'],
@@ -51,6 +54,7 @@ allData['pokemon'].each do |pokemon|
 		pokedexAS: 				pokemon['pokedexAS'],
 		learnset: 				pokemon['learnset'].to_json
 	)
+	puts "Created Pokemon, #{pokemon['name']}"
 end
 
 # TODO fix array structure type mismatch like 'abilities'

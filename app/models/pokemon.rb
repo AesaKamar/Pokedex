@@ -1,6 +1,6 @@
 class Pokemon < ActiveRecord::Base
 
-    has_many :abilities
+    # has_many :abilities
 
     scope :gen1, -> { where("number >= 1 AND number <= 151") }
     scope :gen2, -> { where("number >= 152 AND number <= 251") }

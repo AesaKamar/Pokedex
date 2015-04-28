@@ -45,6 +45,7 @@ ActiveRecord::Schema.define(version: 20150303193307) do
     t.text    "pokedexOR"
     t.text    "pokedexAS"
     t.json    "learnset"
+    t.string  "form"
   end
 
 end
