@@ -7,7 +7,10 @@ jsonPath = "./pokedex_final.json"
 allData = JSON.parse(File.read(jsonPath))
 
 allData['pokemon'].each do |pokemon|
-  PP.pp pokemon["number"]
+  PP.pp pokemon['abilities'].class
+  pokemon["abilities"].each do |ele|
+    PP.pp ele.class
+  end
 end
 
 

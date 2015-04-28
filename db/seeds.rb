@@ -7,6 +7,17 @@ jsonPath = "#{Rails.root}/db/pokedex_final.json"
 allData = JSON.parse(File.read(jsonPath))
 
 
+a = allData['abilities'].drop(1)
+a.each do |ability|
+	Ability.create(
+		name: 					ability['name'],
+		description: 		ability['description']
+	)
+end
+
+puts "\nPASSING ABILITIES\n"
+
+
 allData['pokemon'].each do |pokemon|
 	Pokemon.create(
 		number: 					pokemon['number'],
