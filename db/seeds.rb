@@ -19,15 +19,22 @@ puts "\nPASSING ABILITIES\n"
 
 
 allData['pokemon'].each do |pokemon|
+	#get ability array for that pokemon
+	abs = pokemon['abilities']
+	abs.map!{ |element|
+		Ability.find(element)
+	}
+
+
 	Pokemon.create(
 		number: 					pokemon['number'],
 		name: 						pokemon['name'],
 		species: 					pokemon['species'],
 		types: 						pokemon['types'],
-		abilities: 				pokemon['abilities'],
+		abilities: 				abs,
 		genderThreshold: 	pokemon['genderThreshold'],
 		catchRate: 				pokemon['catchRate'],
-		eggGroup: 				pokemon['eggGroup'],
+		eggGroups: 				pokemon['eggGroup'],
 		hatchCounter: 		pokemon['hatchCounter'],
 		height: 					pokemon['height'],
 		weight: 					pokemon['weight'],
@@ -39,7 +46,7 @@ allData['pokemon'].each do |pokemon|
 		color: 						pokemon['color'],
 		baseStats: 				pokemon['baseStats'],
 		pokedexX: 				pokemon['pokedexX'],
-		pokedexy: 				pokemon['pokedexY'],
+		pokedexY: 				pokemon['pokedexY'],
 		pokedexOR: 				pokemon['pokedexOR'],
 		pokedexAS: 				pokemon['pokedexAS'],
 		learnset: 				pokemon['learnset'].to_json
