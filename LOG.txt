@@ -1,0 +1,999 @@
+Created ability, Adaptability
+Created ability, Aerilate
+Created ability, Aftermath
+Created ability, Air Lock
+Created ability, Analytic
+Created ability, Anger Point
+Created ability, Anticipation
+Created ability, Arena Trap
+Created ability, Aroma Veil
+Created ability, Aura Break
+Created ability, Bad Dreams
+Created ability, Battle Armor
+Created ability, Big Pecks
+Created ability, Blaze
+Created ability, Bulletproof
+Created ability, Cheek Pouch
+Created ability, Chlorophyll
+Created ability, Clear Body
+Created ability, Cloud Nine
+Created ability, Color Change
+Created ability, Competitive
+Created ability, Compoundeyes
+Created ability, Contrary
+Created ability, Cursed Body
+Created ability, Cute Charm
+Created ability, Damp
+Created ability, Dark Aura
+Created ability, Defeatist
+Created ability, Defiant
+Created ability, Download
+Created ability, Drizzle
+Created ability, Drought
+Created ability, Dry Skin
+Created ability, Early Bird
+Created ability, Effect Spore
+Created ability, Fairy Aura
+Created ability, Filter
+Created ability, Flame Body
+Created ability, Flare Boost
+Created ability, Flash Fire
+Created ability, Flower Gift
+Created ability, Flower Veil
+Created ability, Forecast
+Created ability, Forewarn
+Created ability, Friend Guard
+Created ability, Frisk
+Created ability, Fur Coat
+Created ability, Gale Wings
+Created ability, Gluttony
+Created ability, Gooey
+Created ability, Grass Pelt
+Created ability, Guts
+Created ability, Harvest
+Created ability, Healer
+Created ability, Heatproof
+Created ability, Heavy Metal
+Created ability, Honey Gather
+Created ability, Huge Power
+Created ability, Hustle
+Created ability, Hydration
+Created ability, Hyper Cutter
+Created ability, Ice Body
+Created ability, Illuminate
+Created ability, Illusion
+Created ability, Immunity
+Created ability, Imposter
+Created ability, Infiltrator
+Created ability, Inner Focus
+Created ability, Insomnia
+Created ability, Intimidate
+Created ability, Iron Barbs
+Created ability, Iron Fist
+Created ability, Justified
+Created ability, Keen Eye
+Created ability, Klutz
+Created ability, Leaf Guard
+Created ability, Levitate
+Created ability, Light Metal
+Created ability, Lightningrod
+Created ability, Limber
+Created ability, Liquid Ooze
+Created ability, Magic Bounce
+Created ability, Magic Guard
+Created ability, Magician
+Created ability, Magma Armor
+Created ability, Magnet Pull
+Created ability, Marvel Scale
+Created ability, Mega Launcher
+Created ability, Minus
+Created ability, Mold Breaker
+Created ability, Moody
+Created ability, Motor Drive
+Created ability, Moxie
+Created ability, Multiscale
+Created ability, Multitype
+Created ability, Mummy
+Created ability, Natural Cure
+Created ability, No Guard
+Created ability, Normalize
+Created ability, Oblivious
+Created ability, Overcoat
+Created ability, Overgrow
+Created ability, Own Tempo
+Created ability, Parental Bond
+Created ability, Pickpocket
+Created ability, Pickup
+Created ability, Pixilate
+Created ability, Plus
+Created ability, Poison Heal
+Created ability, Poison Point
+Created ability, Poison Touch
+Created ability, Prankster
+Created ability, Pressure
+Created ability, Protean
+Created ability, Pure Power
+Created ability, Quick Feet
+Created ability, Rain Dish
+Created ability, Rattled
+Created ability, Reckless
+Created ability, Refrigerate
+Created ability, Regenerator
+Created ability, Rivalry
+Created ability, Rock Head
+Created ability, Rough Skin
+Created ability, Run Away
+Created ability, Sand Force
+Created ability, Sand Rush
+Created ability, Sand Stream
+Created ability, Sand Veil
+Created ability, Sap Sipper
+Created ability, Scrappy
+Created ability, Serene Grace
+Created ability, Shadow Tag
+Created ability, Shed Skin
+Created ability, Sheer Force
+Created ability, Shell Armor
+Created ability, Shield Dust
+Created ability, Simple
+Created ability, Skill Link
+Created ability, Slow Start
+Created ability, Sniper
+Created ability, Snow Cloak
+Created ability, Snow Warning
+Created ability, Solar Power
+Created ability, Solid Rock
+Created ability, Soundproof
+Created ability, Speed Boost
+Created ability, Stall
+Created ability, Stance Change
+Created ability, Static
+Created ability, Steadfast
+Created ability, Stench
+Created ability, Sticky Hold
+Created ability, Storm Drain
+Created ability, Strong Jaw
+Created ability, Sturdy
+Created ability, Suction Cups
+Created ability, Super Luck
+Created ability, Swarm
+Created ability, Sweet Veil
+Created ability, Swift Swim
+Created ability, Symbiosis
+Created ability, Synchronize
+Created ability, Tangled Feet
+Created ability, Technician
+Created ability, Telepathy
+Created ability, Teravolt
+Created ability, Thick Fat
+Created ability, Tinted Lens
+Created ability, Torrent
+Created ability, Tough Claws
+Created ability, Toxic Boost
+Created ability, Trace
+Created ability, Truant
+Created ability, Turboblaze
+Created ability, Unaware
+Created ability, Unburden
+Created ability, Unnerve
+Created ability, Victory Star
+Created ability, Vital Spirit
+Created ability, Volt Absorb
+Created ability, Water Absorb
+Created ability, Water Veil
+Created ability, Weak Armor
+Created ability, White Smoke
+Created ability, Wonder Guard
+Created ability, Wonder Skin
+Created ability, Zen Mode
+Created ability, Primordial Sea
+Created ability, Desolate Land
+Created ability, Delta Stream
+
+PASSING ABILITIES
+Created Pokemon, Bulbasaur
+Created Pokemon, Ivysaur
+Created Pokemon, Venusaur
+Created Pokemon, Charmander
+Created Pokemon, Charmeleon
+Created Pokemon, Charizard
+Created Pokemon, Squirtle
+Created Pokemon, Wartortle
+Created Pokemon, Blastoise
+Created Pokemon, Caterpie
+Created Pokemon, Metapod
+Created Pokemon, Butterfree
+Created Pokemon, Weedle
+Created Pokemon, Kakuna
+Created Pokemon, Beedrill
+Created Pokemon, Pidgey
+Created Pokemon, Pidgeotto
+Created Pokemon, Pidgeot
+Created Pokemon, Rattata
+Created Pokemon, Raticate
+Created Pokemon, Spearow
+Created Pokemon, Fearow
+Created Pokemon, Ekans
+Created Pokemon, Arbok
+Created Pokemon, Pikachu
+Created Pokemon, Raichu
+Created Pokemon, Sandshrew
+Created Pokemon, Sandslash
+Created Pokemon, Nidoran♀
+Created Pokemon, Nidorina
+Created Pokemon, Nidoqueen
+Created Pokemon, Nidoran♂
+Created Pokemon, Nidorino
+Created Pokemon, Nidoking
+Created Pokemon, Clefairy
+Created Pokemon, Clefable
+Created Pokemon, Vulpix
+Created Pokemon, Ninetales
+Created Pokemon, Jigglypuff
+Created Pokemon, Wigglytuff
+Created Pokemon, Zubat
+Created Pokemon, Golbat
+Created Pokemon, Oddish
+Created Pokemon, Gloom
+Created Pokemon, Vileplume
+Created Pokemon, Paras
+Created Pokemon, Parasect
+Created Pokemon, Venonat
+Created Pokemon, Venomoth
+Created Pokemon, Diglett
+Created Pokemon, Dugtrio
+Created Pokemon, Meowth
+Created Pokemon, Persian
+Created Pokemon, Psyduck
+Created Pokemon, Golduck
+Created Pokemon, Mankey
+Created Pokemon, Primeape
+Created Pokemon, Growlithe
+Created Pokemon, Arcanine
+Created Pokemon, Poliwag
+Created Pokemon, Poliwhirl
+Created Pokemon, Poliwrath
+Created Pokemon, Abra
+Created Pokemon, Kadabra
+Created Pokemon, Alakazam
+Created Pokemon, Machop
+Created Pokemon, Machoke
+Created Pokemon, Machamp
+Created Pokemon, Bellsprout
+Created Pokemon, Weepinbell
+Created Pokemon, Victreebel
+Created Pokemon, Tentacool
+Created Pokemon, Tentacruel
+Created Pokemon, Geodude
+Created Pokemon, Graveler
+Created Pokemon, Golem
+Created Pokemon, Ponyta
+Created Pokemon, Rapidash
+Created Pokemon, Slowpoke
+Created Pokemon, Slowbro
+Created Pokemon, Magnemite
+Created Pokemon, Magneton
+Created Pokemon, Farfetch'd
+Created Pokemon, Doduo
+Created Pokemon, Dodrio
+Created Pokemon, Seel
+Created Pokemon, Dewgong
+Created Pokemon, Grimer
+Created Pokemon, Muk
+Created Pokemon, Shellder
+Created Pokemon, Cloyster
+Created Pokemon, Gastly
+Created Pokemon, Haunter
+Created Pokemon, Gengar
+Created Pokemon, Onix
+Created Pokemon, Drowzee
+Created Pokemon, Hypno
+Created Pokemon, Krabby
+Created Pokemon, Kingler
+Created Pokemon, Voltorb
+Created Pokemon, Electrode
+Created Pokemon, Exeggcute
+Created Pokemon, Exeggutor
+Created Pokemon, Cubone
+Created Pokemon, Marowak
+Created Pokemon, Hitmonlee
+Created Pokemon, Hitmonchan
+Created Pokemon, Lickitung
+Created Pokemon, Koffing
+Created Pokemon, Weezing
+Created Pokemon, Rhyhorn
+Created Pokemon, Rhydon
+Created Pokemon, Chansey
+Created Pokemon, Tangela
+Created Pokemon, Kangaskhan
+Created Pokemon, Horsea
+Created Pokemon, Seadra
+Created Pokemon, Goldeen
+Created Pokemon, Seaking
+Created Pokemon, Staryu
+Created Pokemon, Starmie
+Created Pokemon, Mr. Mime
+Created Pokemon, Scyther
+Created Pokemon, Jynx
+Created Pokemon, Electabuzz
+Created Pokemon, Magmar
+Created Pokemon, Pinsir
+Created Pokemon, Tauros
+Created Pokemon, Magikarp
+Created Pokemon, Gyarados
+Created Pokemon, Lapras
+Created Pokemon, Ditto
+Created Pokemon, Eevee
+Created Pokemon, Vaporeon
+Created Pokemon, Jolteon
+Created Pokemon, Flareon
+Created Pokemon, Porygon
+Created Pokemon, Omanyte
+Created Pokemon, Omastar
+Created Pokemon, Kabuto
+Created Pokemon, Kabutops
+Created Pokemon, Aerodactyl
+Created Pokemon, Snorlax
+Created Pokemon, Articuno
+Created Pokemon, Zapdos
+Created Pokemon, Moltres
+Created Pokemon, Dratini
+Created Pokemon, Dragonair
+Created Pokemon, Dragonite
+Created Pokemon, Mewtwo
+Created Pokemon, Mew
+Created Pokemon, Chikorita
+Created Pokemon, Bayleef
+Created Pokemon, Meganium
+Created Pokemon, Cyndaquil
+Created Pokemon, Quilava
+Created Pokemon, Typhlosion
+Created Pokemon, Totodile
+Created Pokemon, Croconaw
+Created Pokemon, Feraligatr
+Created Pokemon, Sentret
+Created Pokemon, Furret
+Created Pokemon, Hoothoot
+Created Pokemon, Noctowl
+Created Pokemon, Ledyba
+Created Pokemon, Ledian
+Created Pokemon, Spinarak
+Created Pokemon, Ariados
+Created Pokemon, Crobat
+Created Pokemon, Chinchou
+Created Pokemon, Lanturn
+Created Pokemon, Pichu
+Created Pokemon, Cleffa
+Created Pokemon, Igglybuff
+Created Pokemon, Togepi
+Created Pokemon, Togetic
+Created Pokemon, Natu
+Created Pokemon, Xatu
+Created Pokemon, Mareep
+Created Pokemon, Flaaffy
+Created Pokemon, Ampharos
+Created Pokemon, Bellossom
+Created Pokemon, Marill
+Created Pokemon, Azumarill
+Created Pokemon, Sudowoodo
+Created Pokemon, Politoed
+Created Pokemon, Hoppip
+Created Pokemon, Skiploom
+Created Pokemon, Jumpluff
+Created Pokemon, Aipom
+Created Pokemon, Sunkern
+Created Pokemon, Sunflora
+Created Pokemon, Yanma
+Created Pokemon, Wooper
+Created Pokemon, Quagsire
+Created Pokemon, Espeon
+Created Pokemon, Umbreon
+Created Pokemon, Murkrow
+Created Pokemon, Slowking
+Created Pokemon, Misdreavus
+Created Pokemon, Unown
+Created Pokemon, Wobbuffet
+Created Pokemon, Girafarig
+Created Pokemon, Pineco
+Created Pokemon, Forretress
+Created Pokemon, Dunsparce
+Created Pokemon, Gligar
+Created Pokemon, Steelix
+Created Pokemon, Snubbull
+Created Pokemon, Granbull
+Created Pokemon, Qwilfish
+Created Pokemon, Scizor
+Created Pokemon, Shuckle
+Created Pokemon, Heracross
+Created Pokemon, Sneasel
+Created Pokemon, Teddiursa
+Created Pokemon, Ursaring
+Created Pokemon, Slugma
+Created Pokemon, Magcargo
+Created Pokemon, Swinub
+Created Pokemon, Piloswine
+Created Pokemon, Corsola
+Created Pokemon, Remoraid
+Created Pokemon, Octillery
+Created Pokemon, Delibird
+Created Pokemon, Mantine
+Created Pokemon, Skarmory
+Created Pokemon, Houndour
+Created Pokemon, Houndoom
+Created Pokemon, Kingdra
+Created Pokemon, Phanpy
+Created Pokemon, Donphan
+Created Pokemon, Porygon2
+Created Pokemon, Stantler
+Created Pokemon, Smeargle
+Created Pokemon, Tyrogue
+Created Pokemon, Hitmontop
+Created Pokemon, Smoochum
+Created Pokemon, Elekid
+Created Pokemon, Magby
+Created Pokemon, Miltank
+Created Pokemon, Blissey
+Created Pokemon, Raikou
+Created Pokemon, Entei
+Created Pokemon, Suicune
+Created Pokemon, Larvitar
+Created Pokemon, Pupitar
+Created Pokemon, Tyranitar
+Created Pokemon, Lugia
+Created Pokemon, Ho-Oh
+Created Pokemon, Celebi
+Created Pokemon, Treecko
+Created Pokemon, Grovyle
+Created Pokemon, Sceptile
+Created Pokemon, Torchic
+Created Pokemon, Combusken
+Created Pokemon, Blaziken
+Created Pokemon, Mudkip
+Created Pokemon, Marshtomp
+Created Pokemon, Swampert
+Created Pokemon, Poochyena
+Created Pokemon, Mightyena
+Created Pokemon, Zigzagoon
+Created Pokemon, Linoone
+Created Pokemon, Wurmple
+Created Pokemon, Silcoon
+Created Pokemon, Beautifly
+Created Pokemon, Cascoon
+Created Pokemon, Dustox
+Created Pokemon, Lotad
+Created Pokemon, Lombre
+Created Pokemon, Ludicolo
+Created Pokemon, Seedot
+Created Pokemon, Nuzleaf
+Created Pokemon, Shiftry
+Created Pokemon, Taillow
+Created Pokemon, Swellow
+Created Pokemon, Wingull
+Created Pokemon, Pelipper
+Created Pokemon, Ralts
+Created Pokemon, Kirlia
+Created Pokemon, Gardevoir
+Created Pokemon, Surskit
+Created Pokemon, Masquerain
+Created Pokemon, Shroomish
+Created Pokemon, Breloom
+Created Pokemon, Slakoth
+Created Pokemon, Vigoroth
+Created Pokemon, Slaking
+Created Pokemon, Nincada
+Created Pokemon, Ninjask
+Created Pokemon, Shedinja
+Created Pokemon, Whismur
+Created Pokemon, Loudred
+Created Pokemon, Exploud
+Created Pokemon, Makuhita
+Created Pokemon, Hariyama
+Created Pokemon, Azurill
+Created Pokemon, Nosepass
+Created Pokemon, Skitty
+Created Pokemon, Delcatty
+Created Pokemon, Sableye
+Created Pokemon, Mawile
+Created Pokemon, Aron
+Created Pokemon, Lairon
+Created Pokemon, Aggron
+Created Pokemon, Meditite
+Created Pokemon, Medicham
+Created Pokemon, Electrike
+Created Pokemon, Manectric
+Created Pokemon, Plusle
+Created Pokemon, Minun
+Created Pokemon, Volbeat
+Created Pokemon, Illumise
+Created Pokemon, Roselia
+Created Pokemon, Gulpin
+Created Pokemon, Swalot
+Created Pokemon, Carvanha
+Created Pokemon, Sharpedo
+Created Pokemon, Wailmer
+Created Pokemon, Wailord
+Created Pokemon, Numel
+Created Pokemon, Camerupt
+Created Pokemon, Torkoal
+Created Pokemon, Spoink
+Created Pokemon, Grumpig
+Created Pokemon, Spinda
+Created Pokemon, Trapinch
+Created Pokemon, Vibrava
+Created Pokemon, Flygon
+Created Pokemon, Cacnea
+Created Pokemon, Cacturne
+Created Pokemon, Swablu
+Created Pokemon, Altaria
+Created Pokemon, Zangoose
+Created Pokemon, Seviper
+Created Pokemon, Lunatone
+Created Pokemon, Solrock
+Created Pokemon, Barboach
+Created Pokemon, Whiscash
+Created Pokemon, Corphish
+Created Pokemon, Crawdaunt
+Created Pokemon, Baltoy
+Created Pokemon, Claydol
+Created Pokemon, Lileep
+Created Pokemon, Cradily
+Created Pokemon, Anorith
+Created Pokemon, Armaldo
+Created Pokemon, Feebas
+Created Pokemon, Milotic
+Created Pokemon, Castform
+Created Pokemon, Kecleon
+Created Pokemon, Shuppet
+Created Pokemon, Banette
+Created Pokemon, Duskull
+Created Pokemon, Dusclops
+Created Pokemon, Tropius
+Created Pokemon, Chimecho
+Created Pokemon, Absol
+Created Pokemon, Wynaut
+Created Pokemon, Snorunt
+Created Pokemon, Glalie
+Created Pokemon, Spheal
+Created Pokemon, Sealeo
+Created Pokemon, Walrein
+Created Pokemon, Clamperl
+Created Pokemon, Huntail
+Created Pokemon, Gorebyss
+Created Pokemon, Relicanth
+Created Pokemon, Luvdisc
+Created Pokemon, Bagon
+Created Pokemon, Shelgon
+Created Pokemon, Salamence
+Created Pokemon, Beldum
+Created Pokemon, Metang
+Created Pokemon, Metagross
+Created Pokemon, Regirock
+Created Pokemon, Regice
+Created Pokemon, Registeel
+Created Pokemon, Latias
+Created Pokemon, Latios
+Created Pokemon, Kyogre
+Created Pokemon, Groudon
+Created Pokemon, Rayquaza
+Created Pokemon, Jirachi
+Created Pokemon, Deoxys
+Created Pokemon, Turtwig
+Created Pokemon, Grotle
+Created Pokemon, Torterra
+Created Pokemon, Chimchar
+Created Pokemon, Monferno
+Created Pokemon, Infernape
+Created Pokemon, Piplup
+Created Pokemon, Prinplup
+Created Pokemon, Empoleon
+Created Pokemon, Starly
+Created Pokemon, Staravia
+Created Pokemon, Staraptor
+Created Pokemon, Bidoof
+Created Pokemon, Bibarel
+Created Pokemon, Kricketot
+Created Pokemon, Kricketune
+Created Pokemon, Shinx
+Created Pokemon, Luxio
+Created Pokemon, Luxray
+Created Pokemon, Budew
+Created Pokemon, Roserade
+Created Pokemon, Cranidos
+Created Pokemon, Rampardos
+Created Pokemon, Shieldon
+Created Pokemon, Bastiodon
+Created Pokemon, Burmy
+Created Pokemon, Wormadam-Plant
+Created Pokemon, Mothim
+Created Pokemon, Combee
+Created Pokemon, Vespiquen
+Created Pokemon, Pachirisu
+Created Pokemon, Buizel
+Created Pokemon, Floatzel
+Created Pokemon, Cherubi
+Created Pokemon, Cherrim
+Created Pokemon, Shellos
+Created Pokemon, Gastrodon
+Created Pokemon, Ambipom
+Created Pokemon, Drifloon
+Created Pokemon, Drifblim
+Created Pokemon, Buneary
+Created Pokemon, Lopunny
+Created Pokemon, Mismagius
+Created Pokemon, Honchkrow
+Created Pokemon, Glameow
+Created Pokemon, Purugly
+Created Pokemon, Chingling
+Created Pokemon, Stunky
+Created Pokemon, Skuntank
+Created Pokemon, Bronzor
+Created Pokemon, Bronzong
+Created Pokemon, Bonsly
+Created Pokemon, Mime Jr.
+Created Pokemon, Happiny
+Created Pokemon, Chatot
+Created Pokemon, Spiritomb
+Created Pokemon, Gible
+Created Pokemon, Gabite
+Created Pokemon, Garchomp
+Created Pokemon, Munchlax
+Created Pokemon, Riolu
+Created Pokemon, Lucario
+Created Pokemon, Hippopotas
+Created Pokemon, Hippowdon
+Created Pokemon, Skorupi
+Created Pokemon, Drapion
+Created Pokemon, Croagunk
+Created Pokemon, Toxicroak
+Created Pokemon, Carnivine
+Created Pokemon, Finneon
+Created Pokemon, Lumineon
+Created Pokemon, Mantyke
+Created Pokemon, Snover
+Created Pokemon, Abomasnow
+Created Pokemon, Weavile
+Created Pokemon, Magnezone
+Created Pokemon, Lickilicky
+Created Pokemon, Rhyperior
+Created Pokemon, Tangrowth
+Created Pokemon, Electivire
+Created Pokemon, Magmortar
+Created Pokemon, Togekiss
+Created Pokemon, Yanmega
+Created Pokemon, Leafeon
+Created Pokemon, Glaceon
+Created Pokemon, Gliscor
+Created Pokemon, Mamoswine
+Created Pokemon, Porygon-Z
+Created Pokemon, Gallade
+Created Pokemon, Probopass
+Created Pokemon, Dusknoir
+Created Pokemon, Froslass
+Created Pokemon, Rotom
+Created Pokemon, Uxie
+Created Pokemon, Mesprit
+Created Pokemon, Azelf
+Created Pokemon, Dialga
+Created Pokemon, Palkia
+Created Pokemon, Heatran
+Created Pokemon, Regigigas
+Created Pokemon, Giratina-Altered
+Created Pokemon, Cresselia
+Created Pokemon, Phione
+Created Pokemon, Manaphy
+Created Pokemon, Darkrai
+Created Pokemon, Shaymin-Land
+Created Pokemon, Arceus
+Created Pokemon, Victini
+Created Pokemon, Snivy
+Created Pokemon, Servine
+Created Pokemon, Serperior
+Created Pokemon, Tepig
+Created Pokemon, Pignite
+Created Pokemon, Emboar
+Created Pokemon, Oshawott
+Created Pokemon, Dewott
+Created Pokemon, Samurott
+Created Pokemon, Patrat
+Created Pokemon, Watchog
+Created Pokemon, Lillipup
+Created Pokemon, Herdier
+Created Pokemon, Stoutland
+Created Pokemon, Purrloin
+Created Pokemon, Liepard
+Created Pokemon, Pansage
+Created Pokemon, Simisage
+Created Pokemon, Pansear
+Created Pokemon, Simisear
+Created Pokemon, Panpour
+Created Pokemon, Simipour
+Created Pokemon, Munna
+Created Pokemon, Musharna
+Created Pokemon, Pidove
+Created Pokemon, Tranquill
+Created Pokemon, Unfezant
+Created Pokemon, Blitzle
+Created Pokemon, Zebstrika
+Created Pokemon, Roggenrola
+Created Pokemon, Boldore
+Created Pokemon, Gigalith
+Created Pokemon, Woobat
+Created Pokemon, Swoobat
+Created Pokemon, Drilbur
+Created Pokemon, Excadrill
+Created Pokemon, Audino
+Created Pokemon, Timburr
+Created Pokemon, Gurdurr
+Created Pokemon, Conkeldurr
+Created Pokemon, Tympole
+Created Pokemon, Palpitoad
+Created Pokemon, Seismitoad
+Created Pokemon, Throh
+Created Pokemon, Sawk
+Created Pokemon, Sewaddle
+Created Pokemon, Swadloon
+Created Pokemon, Leavanny
+Created Pokemon, Venipede
+Created Pokemon, Whirlipede
+Created Pokemon, Scolipede
+Created Pokemon, Cottonee
+Created Pokemon, Whimsicott
+Created Pokemon, Petilil
+Created Pokemon, Lilligant
+Created Pokemon, Basculin-Red
+Created Pokemon, Sandile
+Created Pokemon, Krokorok
+Created Pokemon, Krookodile
+Created Pokemon, Darumaka
+Created Pokemon, Darmanitan
+Created Pokemon, Maractus
+Created Pokemon, Dwebble
+Created Pokemon, Crustle
+Created Pokemon, Scraggy
+Created Pokemon, Scrafty
+Created Pokemon, Sigilyph
+Created Pokemon, Yamask
+Created Pokemon, Cofagrigus
+Created Pokemon, Tirtouga
+Created Pokemon, Carracosta
+Created Pokemon, Archen
+Created Pokemon, Archeops
+Created Pokemon, Trubbish
+Created Pokemon, Garbodor
+Created Pokemon, Zorua
+Created Pokemon, Zoroark
+Created Pokemon, Minccino
+Created Pokemon, Cinccino
+Created Pokemon, Gothita
+Created Pokemon, Gothorita
+Created Pokemon, Gothitelle
+Created Pokemon, Solosis
+Created Pokemon, Duosion
+Created Pokemon, Reuniclus
+Created Pokemon, Ducklett
+Created Pokemon, Swanna
+Created Pokemon, Vanillite
+Created Pokemon, Vanillish
+Created Pokemon, Vanilluxe
+Created Pokemon, Deerling
+Created Pokemon, Sawsbuck
+Created Pokemon, Emolga
+Created Pokemon, Karrablast
+Created Pokemon, Escavalier
+Created Pokemon, Foongus
+Created Pokemon, Amoonguss
+Created Pokemon, Frillish
+Created Pokemon, Jellicent
+Created Pokemon, Alomomola
+Created Pokemon, Joltik
+Created Pokemon, Galvantula
+Created Pokemon, Ferroseed
+Created Pokemon, Ferrothorn
+Created Pokemon, Klink
+Created Pokemon, Klang
+Created Pokemon, Klinklang
+Created Pokemon, Tynamo
+Created Pokemon, Eelektrik
+Created Pokemon, Eelektross
+Created Pokemon, Elgyem
+Created Pokemon, Beheeyem
+Created Pokemon, Litwick
+Created Pokemon, Lampent
+Created Pokemon, Chandelure
+Created Pokemon, Axew
+Created Pokemon, Fraxure
+Created Pokemon, Haxorus
+Created Pokemon, Cubchoo
+Created Pokemon, Beartic
+Created Pokemon, Cryogonal
+Created Pokemon, Shelmet
+Created Pokemon, Accelgor
+Created Pokemon, Stunfisk
+Created Pokemon, Mienfoo
+Created Pokemon, Mienshao
+Created Pokemon, Druddigon
+Created Pokemon, Golett
+Created Pokemon, Golurk
+Created Pokemon, Pawniard
+Created Pokemon, Bisharp
+Created Pokemon, Bouffalant
+Created Pokemon, Rufflet
+Created Pokemon, Braviary
+Created Pokemon, Vullaby
+Created Pokemon, Mandibuzz
+Created Pokemon, Heatmor
+Created Pokemon, Durant
+Created Pokemon, Deino
+Created Pokemon, Zweilous
+Created Pokemon, Hydreigon
+Created Pokemon, Larvesta
+Created Pokemon, Volcarona
+Created Pokemon, Cobalion
+Created Pokemon, Terrakion
+Created Pokemon, Virizion
+Created Pokemon, Tornadus-Incarnate
+Created Pokemon, Thundurus-Incarnate
+Created Pokemon, Reshiram
+Created Pokemon, Zekrom
+Created Pokemon, Landorus-Incarnate
+Created Pokemon, Kyurem
+Created Pokemon, Keldeo
+Created Pokemon, Meloetta-Aria
+Created Pokemon, Genesect
+Created Pokemon, Chespin
+Created Pokemon, Quilladin
+Created Pokemon, Chesnaught
+Created Pokemon, Fennekin
+Created Pokemon, Braixen
+Created Pokemon, Delphox
+Created Pokemon, Froakie
+Created Pokemon, Frogadier
+Created Pokemon, Greninja
+Created Pokemon, Bunnelby
+Created Pokemon, Diggersby
+Created Pokemon, Fletchling
+Created Pokemon, Fletchinder
+Created Pokemon, Talonflame
+Created Pokemon, Scatterbug
+Created Pokemon, Spewpa
+Created Pokemon, Vivillon
+Created Pokemon, Litleo
+Created Pokemon, Pyroar
+Created Pokemon, Flab&eacute;b&eacute;
+Created Pokemon, Floette
+Created Pokemon, Florges
+Created Pokemon, Skiddo
+Created Pokemon, Gogoat
+Created Pokemon, Pancham
+Created Pokemon, Pangoro
+Created Pokemon, Furfrou
+Created Pokemon, Espurr
+Created Pokemon, Meowstic-M
+Created Pokemon, Honedge
+Created Pokemon, Doublade
+Created Pokemon, Aegislash-Shield
+Created Pokemon, Spritzee
+Created Pokemon, Aromatisse
+Created Pokemon, Swirlix
+Created Pokemon, Slurpuff
+Created Pokemon, Inkay
+Created Pokemon, Malamar
+Created Pokemon, Binacle
+Created Pokemon, Barbaracle
+Created Pokemon, Skrelp
+Created Pokemon, Dragalge
+Created Pokemon, Clauncher
+Created Pokemon, Clawitzer
+Created Pokemon, Helioptile
+Created Pokemon, Heliolisk
+Created Pokemon, Tyrunt
+Created Pokemon, Tyrantrum
+Created Pokemon, Amaura
+Created Pokemon, Aurorus
+Created Pokemon, Sylveon
+Created Pokemon, Hawlucha
+Created Pokemon, Dedenne
+Created Pokemon, Carbink
+Created Pokemon, Goomy
+Created Pokemon, Sliggoo
+Created Pokemon, Goodra
+Created Pokemon, Klefki
+Created Pokemon, Phantump
+Created Pokemon, Trevenant
+Created Pokemon, Pumpkaboo-Average
+Created Pokemon, Gourgeist-Average
+Created Pokemon, Bergmite
+Created Pokemon, Avalugg
+Created Pokemon, Noibat
+Created Pokemon, Noivern
+Created Pokemon, Xerneas
+Created Pokemon, Yveltal
+Created Pokemon, Zygarde
+Created Pokemon, Diancie
+Created Pokemon, Hoopa-Confined
+Created Pokemon, Volcanion
+Created Pokemon, Castform-Sunny
+Created Pokemon, Castform-Rainy
+Created Pokemon, Castform-Snowy
+Created Pokemon, Deoxys-Attack
+Created Pokemon, Deoxys-Defense
+Created Pokemon, Deoxys-Speed
+Created Pokemon, Wormadam-Sandy
+Created Pokemon, Wormadam-Trash
+Created Pokemon, Rotom-Heat
+Created Pokemon, Rotom-Wash
+Created Pokemon, Rotom-Frost
+Created Pokemon, Rotom-Fan
+Created Pokemon, Rotom-Mow
+Created Pokemon, Giratina-Origin
+Created Pokemon, Shaymin-Sky
+Created Pokemon, Basculin-Blue
+Created Pokemon, Darmanitan-Zen
+Created Pokemon, Tornadus-Therian
+Created Pokemon, Thundurus-Therian
+Created Pokemon, Landorus-Therian
+Created Pokemon, Kyurem-White
+Created Pokemon, Kyurem-Black
+Created Pokemon, Keldeo-Resolute
+Created Pokemon, Meloetta-Pirouette
+Created Pokemon, Floette-Eternal
+Created Pokemon, Meowstic-F
+Created Pokemon, Aegislash-Blade
+Created Pokemon, Pumpkaboo-Small
+Created Pokemon, Pumpkaboo-Large
+Created Pokemon, Pumpkaboo-Super
+Created Pokemon, Gourgeist-Small
+Created Pokemon, Gourgeist-Large
+Created Pokemon, Gourgeist-Super
+Created Pokemon, Hoopa-Unbound
+Created Pokemon, Venusaur-Mega
+Created Pokemon, Charizard-Mega-X
+Created Pokemon, Charizard-Mega-Y
+Created Pokemon, Blastoise-Mega
+Created Pokemon, Alakazam-Mega
+Created Pokemon, Gengar-Mega
+Created Pokemon, Kangaskhan-Mega
+Created Pokemon, Pinsir-Mega
+Created Pokemon, Gyarados-Mega
+Created Pokemon, Aerodactyl
+Created Pokemon, Mewtwo-Mega-X
+Created Pokemon, Mewtwo-Mega-Y
+Created Pokemon, Ampharos-Mega
+Created Pokemon, Scizor-Mega
+Created Pokemon, Heracross-Mega
+Created Pokemon, Houndoom-Mega
+Created Pokemon, Tyranitar-Mega
+Created Pokemon, Blaziken-Mega
+Created Pokemon, Gardevoir-Mega
+Created Pokemon, Mawile-Mega
+Created Pokemon, Aggron-Mega
+Created Pokemon, Medicham-Mega
+Created Pokemon, Manectric-Mega
+Created Pokemon, Banette-Mega
+Created Pokemon, Absol-Mega
+Created Pokemon, Garchomp-Mega
+Created Pokemon, Lucario-Mega
+Created Pokemon, Abomasnow-Mega
+Created Pokemon, Beedrill-Mega
+Created Pokemon, Pidgeot-Mega
+Created Pokemon, Slowbro-Mega
+Created Pokemon, Steelix-Mega
+Created Pokemon, Sceptile-Mega
+Created Pokemon, Swampert-Mega
+Created Pokemon, Sableye-Mega
+Created Pokemon, Sharpedo-Mega
+Created Pokemon, Camerupt-Mega
+Created Pokemon, Altaria-Mega
+Created Pokemon, Glalie-Mega
+Created Pokemon, Salamence-Mega
+Created Pokemon, Metagross-Mega
+Created Pokemon, Latias-Mega
+Created Pokemon, Latios-Mega
+Created Pokemon, Kyogre-Primal
+Created Pokemon, Groudon-Primal
+Created Pokemon, Rayquaza-Mega
+Created Pokemon, Lopunny-Mega
+Created Pokemon, Gallade
+Created Pokemon, Gallade-Mega
+Created Pokemon, Audino-Mega
+Created Pokemon, Diancie-Mega

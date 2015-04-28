@@ -1,3 +1,3 @@
 class Ability < ActiveRecord::Base
-    belongs_to :pokemon
+    # belongs_to :pokemon
 end

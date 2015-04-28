@@ -13,30 +13,39 @@
 
 ActiveRecord::Schema.define(version: 20150303193307) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "abilities", force: true do |t|
-    t.integer  "number"
-    t.string   "name"
-    t.text     "description"
-    t.text     "shortdescription"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.string "name"
+    t.text   "description"
   end
 
   create_table "pokemons", force: true do |t|
-    t.integer  "number"
-    t.string   "name"
-    t.string   "form"
-    t.string   "type1"
-    t.string   "type2"
-    t.integer  "hp"
-    t.integer  "atk"
-    t.integer  "spatk"
-    t.integer  "def"
-    t.integer  "spdef"
-    t.integer  "spe"
-    t.text     "entry"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.integer "number"
+    t.string  "name"
+    t.string  "species"
+    t.integer "types",           default: [],                 array: true
+    t.integer "abilities",       default: [],                 array: true
+    t.integer "genderThreshold"
+    t.integer "catchRate"
+    t.integer "eggGroups",       default: [],                 array: true
+    t.integer "hatchCounter"
+    t.float   "height"
+    t.float   "weight"
+    t.integer "baseExpYield"
+    t.integer "baseFriendship"
+    t.integer "expGroup"
+    t.integer "evYield",         default: [0, 0, 0, 0, 0, 0], array: true
+    t.integer "bodyStyle"
+    t.integer "color"
+    t.integer "baseStats",       default: [0, 0, 0, 0, 0, 0], array: true
+    t.text    "pokedexX"
+    t.text    "pokedexY"
+    t.text    "pokedexOR"
+    t.text    "pokedexAS"
+    t.json    "learnset"
+    t.string  "form"
   end
 
 end
