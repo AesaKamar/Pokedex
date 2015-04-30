@@ -13,9 +13,10 @@ class PokemonsController < ApplicationController
   def show
     @pokemon = Pokemon.find(params[:id])
     respond_to do |format|
-      format.json
+      format.json {render json: @pokemon, status: 200}
       format.js
     end
+    # render json: @pokemon
   end
 
   # GET /pokemons/new

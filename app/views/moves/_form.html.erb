@@ -1,0 +1,49 @@
+<%= form_for(@move) do |f| %>
+  <% if @move.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@move.errors.count, "error") %> prohibited this move from being saved:</h2>
+
+      <ul>
+      <% @move.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :types %><br>
+    <%= f.number_field :type %>
+  </div>
+  <div class="field">
+    <%= f.label :pp %><br>
+    <%= f.number_field :pp %>
+  </div>
+  <div class="field">
+    <%= f.label :power %><br>
+    <%= f.number_field :power %>
+  </div>
+  <div class="field">
+    <%= f.label :accuracy %><br>
+    <%= f.number_field :accuracy %>
+  </div>
+  <div class="field">
+    <%= f.label :category %><br>
+    <%= f.number_field :category %>
+  </div>
+  <div class="field">
+    <%= f.label :damage %><br>
+    <%= f.number_field :damage %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br>
+    <%= f.text_field :description %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

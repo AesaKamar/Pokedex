@@ -14,12 +14,29 @@ a.each do |ability|
 		description: 		ability['description']
 	)
 	puts "Created ability, #{ability['name']}"
+
 end
 
 
 
 puts "\nPASSING ABILITIES\n"
 
+
+m = allData['moves'].drop(1)
+
+m.each do |move|
+	Move.create(
+		name: 				move['name'],
+		types: 				move['type'],
+		pp: 					move['pp'],
+		power: 				move['power'],
+		accuracy: 		move['accuracy'],
+		category: 		move['category'],
+		damage: 			move['damage'],
+		description: 	move['description']
+	)
+	puts "Created move, #{move['name']}"
+end
 
 allData['pokemon'].each do |pokemon|
 # 	#get ability array for that pokemon

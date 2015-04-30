@@ -21,6 +21,17 @@ ActiveRecord::Schema.define(version: 20150303193307) do
     t.text   "description"
   end
 
+  create_table "moves", force: true do |t|
+    t.string    "name"
+    t.integer   "types"
+    t.integer   "pp"
+    t.integer   "power"
+    t.integer   "accuracy"
+    t.integer   "category"
+    t.integer   "damage"
+    t.text    "description"
+  end
+
   create_table "pokemons", force: true do |t|
     t.integer "number"
     t.string  "name"
