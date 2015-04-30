@@ -14,6 +14,7 @@ a.each do |ability|
 		description: 		ability['description']
 	)
 	puts "Created ability, #{ability['name']}"
+
 end
 
 

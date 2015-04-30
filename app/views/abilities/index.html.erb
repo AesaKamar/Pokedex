@@ -6,7 +6,6 @@
       <th>Number</th>
       <th>Name</th>
       <th>Description</th>
-      <th>Shortdescription</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -14,18 +13,12 @@
   <tbody>
     <% @abilities.each do |ability| %>
       <tr>
-        <td><%= ability.number %></td>
+        <td><%= ability.id %></td>
         <td><%= ability.name %></td>
         <td><%= ability.description %></td>
-        <td><%= ability.shortdescription %></td>
-        <td><%= link_to 'Show', ability %></td>
-        <td><%= link_to 'Edit', edit_ability_path(ability) %></td>
-        <td><%= link_to 'Destroy', ability, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>
 </table>
 
 <br>
-
-<%= link_to 'New Ability', new_ability_path %>

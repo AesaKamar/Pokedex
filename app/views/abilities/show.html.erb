@@ -2,7 +2,7 @@
 
 <p>
   <strong>Number:</strong>
-  <%= @ability.number %>
+  <%= @ability.id %>
 </p>
 
 <p>
@@ -15,10 +15,5 @@
   <%= @ability.description %>
 </p>
 
-<p>
-  <strong>Shortdescription:</strong>
-  <%= @ability.shortdescription %>
-</p>
 
-<%= link_to 'Edit', edit_ability_path(@ability) %> |
 <%= link_to 'Back', abilities_path %>
