@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 1
+  pp: 1
+  power: 1
+  accuracy: 1
+  category: 1
+  damage: 1
+  description: MyString
+
+two:
+  name: MyString
+  type: 1
+  pp: 1
+  power: 1
+  accuracy: 1
+  category: 1
+  damage: 1
+  description: MyString

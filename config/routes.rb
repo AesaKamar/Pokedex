@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :moves
+
     with_options only: [:index, :show] do |x|
         x.resources :abilities
         x.resources :pokemons

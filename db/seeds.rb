@@ -22,6 +22,21 @@ end
 puts "\nPASSING ABILITIES\n"
 
 
+m = alldata['moves'].drop(1)
+m.each do |move|
+	Move.create(
+		name: 				move['name'],
+		type: 				move['type'],
+		pp: 				move['pp'],
+		power: 				move['power'],
+		accuracy: 			move['accuracy'],
+		category: 			move['category'],
+		damage: 			move['damage'],
+		description: 		move['description']
+	)
+	puts "Created move, #{move['name']}"
+end
+
 allData['pokemon'].each do |pokemon|
 # 	#get ability array for that pokemon
 # 	abs = pokemon['abilities']

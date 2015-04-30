@@ -1,0 +1,44 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @move.name %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @move.type %>
+</p>
+
+<p>
+  <strong>Pp:</strong>
+  <%= @move.pp %>
+</p>
+
+<p>
+  <strong>Power:</strong>
+  <%= @move.power %>
+</p>
+
+<p>
+  <strong>Accuracy:</strong>
+  <%= @move.accuracy %>
+</p>
+
+<p>
+  <strong>Category:</strong>
+  <%= @move.category %>
+</p>
+
+<p>
+  <strong>Damage:</strong>
+  <%= @move.damage %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @move.description %>
+</p>
+
+<%= link_to 'Edit', edit_move_path(@move) %> |
+<%= link_to 'Back', moves_path %>
