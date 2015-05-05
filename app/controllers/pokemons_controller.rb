@@ -11,18 +11,18 @@ class PokemonsController < ApplicationController
   # GET /pokemons/1
   # GET /pokemons/1.json
   def show
-    @pokemon = Pokemon.find(params[:id])
-    respond_to do |format|
-      format.json {render json: @pokemon, status: 200}
-      format.js
-    end
-    # render json: @pokemon
+    # @pokemon = Pokemon.find(params[:id])
+    # respond_to do |format|
+    #   format.json {render json: @pokemon, status: 200}
+    #   format.js
+    # end
+    # # render json: @pokemon
   end
 
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_pokemon
-      @pokemon = Pokemon.find(params[:id])
+      @pokemon = Pokemon.friendly.find(params[:id].capitalize)
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
