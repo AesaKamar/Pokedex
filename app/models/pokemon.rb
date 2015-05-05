@@ -4,8 +4,10 @@ class Pokemon < ActiveRecord::Base
   extend FriendlyId
   friendly_id :name
 
+  # self.table_name = "pokemon"
 
-  
+
+
   scope :gen1, -> { where("number >= 1 AND number <= 151") }
   scope :gen2, -> { where("number >= 152 AND number <= 251") }
   scope :gen3, -> { where("number >= 252 AND number <= 386") }
