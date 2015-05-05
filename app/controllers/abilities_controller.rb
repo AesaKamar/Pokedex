@@ -1,5 +1,5 @@
 class AbilitiesController < ApplicationController
-  before_action :set_ability, only: [:show, :edit, :update, :destroy]
+  before_action :set_ability, only: [:show]
 
   # GET /abilities
   # GET /abilities.json
@@ -15,7 +15,7 @@ class AbilitiesController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_ability
-      @ability = Ability.find(params[:id])
+      @ability = Ability.friendly.find(params[:id].capitalize)
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
