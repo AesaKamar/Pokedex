@@ -3,11 +3,11 @@ Rails.application.routes.draw do
 
     with_options only: [:index, :show] do |x|
         x.resources :abilities
-        x.resources :pokemons
+        x.resources :pokemon
         x.resources :moves
     end
 
-root 'pokemons#index'
+root 'pokemon#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

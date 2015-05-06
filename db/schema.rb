@@ -32,7 +32,7 @@ ActiveRecord::Schema.define(version: 20150303193307) do
     t.text    "description"
   end
 
-  create_table "pokemons", force: true do |t|
+  create_table "pokemon", force: true do |t|
     t.integer "number"
     t.string  "name"
     t.string  "species"

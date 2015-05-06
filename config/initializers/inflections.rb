@@ -16,5 +16,5 @@
 # end
 
 ActiveSupport::Inflector.inflections do |inflect|
-  inflect.irregular 'pokemon', 'pokemons'
+  inflect.irregular 'pokemon', 'pokemon'
 end
