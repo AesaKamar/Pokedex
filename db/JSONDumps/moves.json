@@ -1,0 +1,6204 @@
+{
+"moves":[
+{
+	"name":"None",
+	"type":0,
+	"pp":0,
+	"power":0,
+	"accuracy":0,
+	"category":0,
+	"damage":0,
+	"description":"None"
+},
+{
+	"name":"Absorb",
+	"type":12,
+	"pp":25,
+	"power":20,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+},
+{
+	"name":"Acid",
+	"type":4,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats."
+},
+{
+	"name":"Acid Armor",
+	"type":4,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user alters its cellular structure to liquefy itself, sharply raising its Defense stat."
+},
+{
+	"name":"Acid Spray",
+	"type":4,
+	"pp":20,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat."
+},
+{
+	"name":"Acrobatics",
+	"type":3,
+	"pp":15,
+	"power":55,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+},
+{
+	"name":"Acupressure",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user applies pressure to stress points, sharply boosting one of its or its allies’ stats."
+},
+{
+	"name":"Aerial Ace",
+	"type":3,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"The user confounds the target with speed, then slashes. This attack never misses."
+},
+{
+	"name":"Aeroblast",
+	"type":3,
+	"pp":5,
+	"power":100,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"A vortex of air is shot at the target to inflict damage. Critical hits land more easily."
+},
+{
+	"name":"After You",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user helps the target and makes it use its move right after the user."
+},
+{
+	"name":"Agility",
+	"type":14,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user relaxes and lightens its body to move faster. This sharply raises the Speed stat."
+},
+{
+	"name":"Air Cutter",
+	"type":3,
+	"pp":25,
+	"power":60,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily."
+},
+{
+	"name":"Air Slash",
+	"type":3,
+	"pp":15,
+	"power":75,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a blade of air that slices even the sky. This may also make the target flinch."
+},
+{
+	"name":"Ally Switch",
+	"type":14,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user teleports using a strange power and switches places with one of its allies."
+},
+{
+	"name":"Amnesia",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat."
+},
+{
+	"name":"Ancient Power",
+	"type":6,
+	"pp":5,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a prehistoric power. This may also raise all the user's stats at once."
+},
+{
+	"name":"Aqua Jet",
+	"type":11,
+	"pp":20,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user lunges at the target at a speed that makes it almost invisible. This move always goes first."
+},
+{
+	"name":"Aqua Ring",
+	"type":11,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user envelops itself in a veil made of water. It regains some HP every turn."
+},
+{
+	"name":"Aqua Tail",
+	"type":11,
+	"pp":10,
+	"power":90,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+},
+{
+	"name":"Arm Thrust",
+	"type":2,
+	"pp":20,
+	"power":15,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row."
+},
+{
+	"name":"Aromatherapy",
+	"type":12,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user releases a soothing scent that heals all status conditions affecting the user’s party."
+},
+{
+	"name":"Aromatic Mist",
+	"type":18,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma."
+},
+{
+	"name":"Assist",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user hurriedly and randomly uses a move among those known by other Pokémon in the party."
+},
+{
+	"name":"Assurance",
+	"type":17,
+	"pp":10,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"If the target has already taken some damage in the same turn, this attack's power is doubled."
+},
+{
+	"name":"Astonish",
+	"type":8,
+	"pp":15,
+	"power":30,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks the target while shouting in a startling fashion. This may also make the target flinch."
+},
+{
+	"name":"Attack Order",
+	"type":7,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user calls out its underlings to pummel the target. Critical hits land more easily."
+},
+{
+	"name":"Attract",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"If it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+},
+{
+	"name":"Aura Sphere",
+	"type":2,
+	"pp":20,
+	"power":80,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"The user lets loose a blast of aura power from deep within its body at the target. This attack never misses."
+},
+{
+	"name":"Aurora Beam",
+	"type":15,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+},
+{
+	"name":"Autotomize",
+	"type":9,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user sheds part of its body to make itself lighter and sharply raise its Speed stat."
+},
+{
+	"name":"Avalanche",
+	"type":15,
+	"pp":10,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack move that inflicts double the damage if the user has been hurt by the target in the same turn."
+},
+{
+	"name":"Baby-Doll Eyes",
+	"type":18,
+	"pp":30,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first."
+},
+{
+	"name":"Barrage",
+	"type":1,
+	"pp":20,
+	"power":15,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"Round objects are hurled at the target to strike two to five times in a row."
+},
+{
+	"name":"Barrier",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user throws up a sturdy wall that sharply raises its Defense stat."
+},
+{
+	"name":"Baton Pass",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user switches places with a party Pokémon in waiting and passes along any stat changes."
+},
+{
+	"name":"Beat Up",
+	"type":17,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+},
+{
+	"name":"Belch",
+	"type":4,
+	"pp":10,
+	"power":120,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user lets out a damaging belch at the target. The user must eat a held Berry to use this move."
+},
+{
+	"name":"Belly Drum",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user maximizes its Attack stat in exchange for HP equal to half its max HP."
+},
+{
+	"name":"Bestow",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user passes its held item to the target when the target isn't holding an item."
+},
+{
+	"name":"Bide",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"The user endures attacks for two turns, then strikes back to cause double the damage taken."
+},
+{
+	"name":"Bind",
+	"type":1,
+	"pp":20,
+	"power":15,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns."
+},
+{
+	"name":"Bite",
+	"type":17,
+	"pp":25,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is bitten with viciously sharp fangs. This may also make the target flinch."
+},
+{
+	"name":"Blast Burn",
+	"type":10,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The target is razed by a fiery explosion. The user can’t move on the next turn."
+},
+{
+	"name":"Blaze Kick",
+	"type":10,
+	"pp":10,
+	"power":85,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn."
+},
+{
+	"name":"Blizzard",
+	"type":15,
+	"pp":5,
+	"power":110,
+	"accuracy":70,
+	"category":2,
+	"damage":4,
+	"description":"A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen."
+},
+{
+	"name":"Block",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user blocks the target’s way with arms spread wide to prevent escape."
+},
+{
+	"name":"Blue Flare",
+	"type":10,
+	"pp":5,
+	"power":130,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn."
+},
+{
+	"name":"Body Slam",
+	"type":1,
+	"pp":15,
+	"power":85,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user drops onto the target with its full body weight. This may also leave the target with paralysis."
+},
+{
+	"name":"Bolt Strike",
+	"type":13,
+	"pp":5,
+	"power":130,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis."
+},
+{
+	"name":"Bone Club",
+	"type":5,
+	"pp":20,
+	"power":65,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user clubs the target with a bone. This may also make the target flinch."
+},
+{
+	"name":"Bone Rush",
+	"type":5,
+	"pp":10,
+	"power":25,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user strikes the target with a hard bone two to five times in a row."
+},
+{
+	"name":"Bonemerang",
+	"type":5,
+	"pp":10,
+	"power":50,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user throws the bone it holds. The bone loops to hit the target twice, coming and going."
+},
+{
+	"name":"Boomburst",
+	"type":1,
+	"pp":10,
+	"power":140,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks everything around it with the destructive power of a terrible, explosive sound."
+},
+{
+	"name":"Bounce",
+	"type":3,
+	"pp":5,
+	"power":85,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis."
+},
+{
+	"name":"Brave Bird",
+	"type":3,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot."
+},
+{
+	"name":"Brick Break",
+	"type":2,
+	"pp":15,
+	"power":75,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect."
+},
+{
+	"name":"Brine",
+	"type":11,
+	"pp":10,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"If the target’s HP is half or less, this attack will hit with double the power."
+},
+{
+	"name":"Bubble",
+	"type":11,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats."
+},
+{
+	"name":"Bubble Beam",
+	"type":11,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat."
+},
+{
+	"name":"Bug Bite",
+	"type":7,
+	"pp":20,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user bites the target. If the target is holding a Berry, the user eats it and gains its effect."
+},
+{
+	"name":"Bug Buzz",
+	"type":7,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user vibrates its wings to generate a damaging sound wave. This may also lower the target's Sp. Def stat."
+},
+{
+	"name":"Bulk Up",
+	"type":2,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats."
+},
+{
+	"name":"Bulldoze",
+	"type":5,
+	"pp":20,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit."
+},
+{
+	"name":"Bullet Punch",
+	"type":9,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user strikes the target with tough punches as fast as bullets. This move always goes first."
+},
+{
+	"name":"Bullet Seed",
+	"type":12,
+	"pp":30,
+	"power":25,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user forcefully shoots seeds at the target two to five times in a row."
+},
+{
+	"name":"Calm Mind",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats."
+},
+{
+	"name":"Camouflage",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user's type is changed depending on its environment, such as at water's edge, in grass, or in a cave."
+},
+{
+	"name":"Captivate",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat."
+},
+{
+	"name":"Celebrate",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The Pokémon congratulates you on your special day!"
+},
+{
+	"name":"Charge",
+	"type":13,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat."
+},
+{
+	"name":"Charge Beam",
+	"type":13,
+	"pp":10,
+	"power":50,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat."
+},
+{
+	"name":"Charm",
+	"type":18,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat."
+},
+{
+	"name":"Chatter",
+	"type":3,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks using a sound wave based on words it has learned. This confuses the target."
+},
+{
+	"name":"Chip Away",
+	"type":1,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage."
+},
+{
+	"name":"Circle Throw",
+	"type":2,
+	"pp":10,
+	"power":60,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+},
+{
+	"name":"Clamp",
+	"type":11,
+	"pp":15,
+	"power":35,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The target is clamped and squeezed by the user’s very thick and sturdy shell for four to five turns."
+},
+{
+	"name":"Clear Smog",
+	"type":4,
+	"pp":15,
+	"power":50,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by throwing a clump of special mud. All stat changes are returned to normal."
+},
+{
+	"name":"Close Combat",
+	"type":2,
+	"pp":5,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user fights the target up close without guarding itself. This also lowers the user's Defense and Sp. Def stats."
+},
+{
+	"name":"Coil",
+	"type":4,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy."
+},
+{
+	"name":"Comet Punch",
+	"type":1,
+	"pp":15,
+	"power":18,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The target is hit with a flurry of punches that strike two to five times in a row."
+},
+{
+	"name":"Confide",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat."
+},
+{
+	"name":"Confuse Ray",
+	"type":8,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The target is exposed to a sinister ray that triggers confusion."
+},
+{
+	"name":"Confusion",
+	"type":14,
+	"pp":25,
+	"power":50,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is hit by a weak telekinetic force. This may also confuse the target."
+},
+{
+	"name":"Constrict",
+	"type":1,
+	"pp":35,
+	"power":10,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is attacked with long, creeping tentacles or vines. This may also lower the target's Speed stat."
+},
+{
+	"name":"Conversion",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user changes its type to become the same type as the move at the top of the list of moves it knows."
+},
+{
+	"name":"Conversion 2",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user changes its type to make itself resistant to the type of the attack the opponent used last."
+},
+{
+	"name":"Copycat",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user mimics the move used immediately before it. The move fails if no other move has been used yet."
+},
+{
+	"name":"Cosmic Power",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user absorbs a mystical power from space to raise its Defense and Sp. Def stats."
+},
+{
+	"name":"Cotton Guard",
+	"type":12,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat."
+},
+{
+	"name":"Cotton Spore",
+	"type":12,
+	"pp":40,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stats."
+},
+{
+	"name":"Counter",
+	"type":2,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A retaliation move that counters any physical attack, inflicting double the damage taken."
+},
+{
+	"name":"Covet",
+	"type":1,
+	"pp":25,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user endearingly approaches the target, then steals the target's held item."
+},
+{
+	"name":"Crabhammer",
+	"type":11,
+	"pp":10,
+	"power":100,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The target is hammered with a large pincer. Critical hits land more easily."
+},
+{
+	"name":"Crafty Shield",
+	"type":18,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage."
+},
+{
+	"name":"Cross Chop",
+	"type":2,
+	"pp":5,
+	"power":100,
+	"accuracy":80,
+	"category":1,
+	"damage":1,
+	"description":"The user delivers a double chop with its forearms crossed. Critical hits land more easily."
+},
+{
+	"name":"Cross Poison",
+	"type":4,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily."
+},
+{
+	"name":"Crunch",
+	"type":17,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user crunches up the target with sharp fangs. This may also lower the target's Defense stat."
+},
+{
+	"name":"Crush Claw",
+	"type":1,
+	"pp":10,
+	"power":75,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user slashes the target with hard and sharp claws. This may also lower the target’s Defense stat."
+},
+{
+	"name":"Crush Grip",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is crushed with great force. The more HP the target has left, the greater this move’s power."
+},
+{
+	"name":"Curse",
+	"type":8,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A move that works differently for the Ghost type than for all other types."
+},
+{
+	"name":"Cut",
+	"type":1,
+	"pp":30,
+	"power":50,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The target is cut with a scythe or claw. This can also be used to cut down thin trees."
+},
+{
+	"name":"Dark Pulse",
+	"type":17,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch."
+},
+{
+	"name":"Dark Void",
+	"type":17,
+	"pp":10,
+	"power":0,
+	"accuracy":80,
+	"category":3,
+	"damage":0,
+	"description":"Opposing Pokémon are dragged into a world of total darkness that makes them sleep."
+},
+{
+	"name":"Dazzling Gleam",
+	"type":18,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user damages opposing Pokémon by emitting a powerful flash."
+},
+{
+	"name":"Defend Order",
+	"type":7,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats."
+},
+{
+	"name":"Defense Curl",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user curls up to conceal weak spots and raise its Defense stat."
+},
+{
+	"name":"Defog",
+	"type":3,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the targe's evasiveness."
+},
+{
+	"name":"Destiny Bond",
+	"type":8,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints."
+},
+{
+	"name":"Detect",
+	"type":2,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+},
+{
+	"name":"Diamond Storm",
+	"type":6,
+	"pp":5,
+	"power":100,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user whips up a storm of diamonds to damage opposing Pokémon. This may also raise the user’s Defense stat."
+},
+{
+	"name":"Dig",
+	"type":5,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user burrows, then attacks on the next turn. It can also be used to exit dungeons."
+},
+{
+	"name":"Disable",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"For four turns, this move prevents the target from using the move it last used."
+},
+{
+	"name":"Disarming Voice",
+	"type":18,
+	"pp":15,
+	"power":40,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses."
+},
+{
+	"name":"Discharge",
+	"type":13,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user strikes everything around it by letting loose a flare of electricity, This may also cause paralysis."
+},
+{
+	"name":"Dive",
+	"type":11,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Diving on the first turn, the user floats up and attacks on the next turn."
+},
+{
+	"name":"Dizzy Punch",
+	"type":1,
+	"pp":10,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is hit with rhythmically launched punches. This may also leave the target confused."
+},
+{
+	"name":"Doom Desire",
+	"type":9,
+	"pp":5,
+	"power":140,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Two turns after this move is used, the user blasts the target with a concentrated bundle of light."
+},
+{
+	"name":"Double Hit",
+	"type":1,
+	"pp":10,
+	"power":35,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row."
+},
+{
+	"name":"Double Kick",
+	"type":2,
+	"pp":30,
+	"power":30,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is quickly kicked twice in succession using both feet."
+},
+{
+	"name":"Double Slap",
+	"type":1,
+	"pp":10,
+	"power":15,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The target is slapped repeatedly, back and forth, two to five times in a row."
+},
+{
+	"name":"Double Team",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+},
+{
+	"name":"Double-Edge",
+	"type":1,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A reckless, life-risking tackle. This also damages the user quite a lot."
+},
+{
+	"name":"Draco Meteor",
+	"type":16,
+	"pp":5,
+	"power":130,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"Comets are summoned down from the sky onto the target. The attack's recoil harshly lowers the user's Sp. Atk stat."
+},
+{
+	"name":"Dragon Ascent",
+	"type":3,
+	"pp":5,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"After soaring upward, the user attacks its target by dropping out of the sky at high speeds, although it lowers its own Defense and Sp. Def in the process."
+},
+{
+	"name":"Dragon Breath",
+	"type":16,
+	"pp":20,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis."
+},
+{
+	"name":"Dragon Claw",
+	"type":16,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slashes the target with huge, sharp claws."
+},
+{
+	"name":"Dragon Dance",
+	"type":16,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats."
+},
+{
+	"name":"Dragon Pulse",
+	"type":16,
+	"pp":10,
+	"power":85,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with a shock wave generated by the user’s gaping mouth."
+},
+{
+	"name":"Dragon Rage",
+	"type":16,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
+},
+{
+	"name":"Dragon Rush",
+	"type":16,
+	"pp":10,
+	"power":100,
+	"accuracy":75,
+	"category":1,
+	"damage":1,
+	"description":"The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch."
+},
+{
+	"name":"Dragon Tail",
+	"type":16,
+	"pp":10,
+	"power":60,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+},
+{
+	"name":"Drain Punch",
+	"type":2,
+	"pp":10,
+	"power":75,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An energy-draining punch. The user's HP is restored by half the damage taken by the target."
+},
+{
+	"name":"Draining Kiss",
+	"type":18,
+	"pp":10,
+	"power":50,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user steals the target's energy with a kiss. The users HP is restored by over half of the damage taken by the target."
+},
+{
+	"name":"Dream Eater",
+	"type":14,
+	"pp":15,
+	"power":100,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP."
+},
+{
+	"name":"Drill Peck",
+	"type":3,
+	"pp":20,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A corkscrewing attack with a sharp beak acting as a drill."
+},
+{
+	"name":"Drill Run",
+	"type":5,
+	"pp":10,
+	"power":80,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user crashes into its target while rotating its body like a drill. Critical hits land more easily."
+},
+{
+	"name":"Dual Chop",
+	"type":16,
+	"pp":15,
+	"power":40,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row."
+},
+{
+	"name":"Dynamic Punch",
+	"type":2,
+	"pp":5,
+	"power":100,
+	"accuracy":50,
+	"category":1,
+	"damage":1,
+	"description":"The user punches the target with full, concentrated power. This confuses the target if it hits."
+},
+{
+	"name":"Earth Power",
+	"type":5,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def."
+},
+{
+	"name":"Earthquake",
+	"type":5,
+	"pp":10,
+	"power":100,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user sets off an earthquake that strikes every Pokémon around it."
+},
+{
+	"name":"Echoed Voice",
+	"type":1,
+	"pp":15,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage."
+},
+{
+	"name":"Eerie Impulse",
+	"type":13,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat."
+},
+{
+	"name":"Egg Bomb",
+	"type":1,
+	"pp":10,
+	"power":100,
+	"accuracy":75,
+	"category":1,
+	"damage":1,
+	"description":"A large egg is hurled at the target with maximum force to inflict damage."
+},
+{
+	"name":"Electric Terrain",
+	"type":13,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep."
+},
+{
+	"name":"Electrify",
+	"type":13,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"If the target is electrified before it uses a move during that turn, the target's move becomes Electric type."
+},
+{
+	"name":"Electro Ball",
+	"type":13,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power."
+},
+{
+	"name":"Electroweb",
+	"type":13,
+	"pp":15,
+	"power":55,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat."
+},
+{
+	"name":"Embargo",
+	"type":17,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"This move prevents the target from using its held item. Its Trainer is also prevented from using items on it."
+},
+{
+	"name":"Ember",
+	"type":10,
+	"pp":25,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with small flames. This may also leave the target with a burn."
+},
+{
+	"name":"Encore",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user compels the target to keep using only the move it last used for three turns."
+},
+{
+	"name":"Endeavor",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack move that cuts down the target's HP to equal the user's HP."
+},
+{
+	"name":"Endure",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession."
+},
+{
+	"name":"Energy Ball",
+	"type":12,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def."
+},
+{
+	"name":"Entrainment",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user dances with an odd rhythm that compels the target to mimic it, making the target’s Ability the same as the user’s."
+},
+{
+	"name":"Eruption",
+	"type":10,
+	"pp":5,
+	"power":150,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks opposing Pokémon with explosive fury. The lower the user’s HP, the lower the move’s power."
+},
+{
+	"name":"Explosion",
+	"type":1,
+	"pp":5,
+	"power":250,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks everything around it by causing a tremendous explosion. The user faints upon using the move."
+},
+{
+	"name":"Extrasensory",
+	"type":14,
+	"pp":20,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with an odd, unseeable power. This may also make the target flinch."
+},
+{
+	"name":"Extreme Speed",
+	"type":1,
+	"pp":5,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user charges the target at blinding speed. This move always goes first."
+},
+{
+	"name":"Facade",
+	"type":1,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack move that doubles its power if the user is poisoned, burned, or has paralysis."
+},
+{
+	"name":"Fairy Lock",
+	"type":18,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn."
+},
+{
+	"name":"Fairy Wind",
+	"type":18,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user stirs up a fairy wind and strikes the target with it."
+},
+{
+	"name":"Fake Out",
+	"type":1,
+	"pp":10,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack that hits first and makes the target flinch. It only works the first turn the user is in battle."
+},
+{
+	"name":"Fake Tears",
+	"type":17,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user feigns crying to fluster the target, harshly lowering its Sp. Def stat."
+},
+{
+	"name":"False Swipe",
+	"type":1,
+	"pp":40,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+},
+{
+	"name":"Feather Dance",
+	"type":3,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user covers the target's body with a mass of down that harshly lowers its Attack stat."
+},
+{
+	"name":"Feint",
+	"type":1,
+	"pp":10,
+	"power":30,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack that hits a target using Protect or Detect. This also lifts the effects of those moves."
+},
+{
+	"name":"Feint Attack",
+	"type":17,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"The user approaches the target disarmingly, then throws a sucker punch. This attack never misses."
+},
+{
+	"name":"Fell Stinger",
+	"type":7,
+	"pp":25,
+	"power":30,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"When the user knocks out a target with this move, the user’s Attack stat rises sharply."
+},
+{
+	"name":"Fiery Dance",
+	"type":10,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Cloaked in flames, the user dances and flaps its wings. This may also raise the user’s Sp. Atk stat."
+},
+{
+	"name":"Final Gambit",
+	"type":2,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user risks everything to attack its target. The user faints but does damage equal to its HP."
+},
+{
+	"name":"Fire Blast",
+	"type":10,
+	"pp":5,
+	"power":110,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn."
+},
+{
+	"name":"Fire Fang",
+	"type":10,
+	"pp":15,
+	"power":65,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn."
+},
+{
+	"name":"Fire Pledge",
+	"type":10,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A column of fire hits the target. When used with its grass equivalent, its damage increases and a vast sea of fire appears."
+},
+{
+	"name":"Fire Punch",
+	"type":10,
+	"pp":15,
+	"power":75,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is punched with a fiery fist. This may also leave the target with a burn."
+},
+{
+	"name":"Fire Spin",
+	"type":10,
+	"pp":15,
+	"power":35,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+},
+{
+	"name":"Fissure",
+	"type":5,
+	"pp":5,
+	"power":0,
+	"accuracy":30,
+	"category":1,
+	"damage":1,
+	"description":"The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits."
+},
+{
+	"name":"Flail",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user flails aimlessly to attack. The less HP the user has, the greater the move's power."
+},
+{
+	"name":"Flame Burst",
+	"type":10,
+	"pp":15,
+	"power":70,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well."
+},
+{
+	"name":"Flame Charge",
+	"type":10,
+	"pp":20,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat."
+},
+{
+	"name":"Flame Wheel",
+	"type":10,
+	"pp":25,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user cloaks itself in fire and charges at the target. This may also leave the target with a burn."
+},
+{
+	"name":"Flamethrower",
+	"type":10,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is scorched with an intense blast of fire. This may also leave the target with a burn."
+},
+{
+	"name":"Flare Blitz",
+	"type":10,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn."
+},
+{
+	"name":"Flash",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user flashes a bright light that cuts the target's accuracy."
+},
+{
+	"name":"Flash Cannon",
+	"type":9,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user gathers all its light energy and releases it at once. This may also lower the target’s Sp. Def stat."
+},
+{
+	"name":"Flatter",
+	"type":17,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"Flattery is used to confuse the target. However, this also raises the target's Sp. Atk stat."
+},
+{
+	"name":"Fling",
+	"type":17,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user flings its held item at the target to attack. This move's power and effects depend on the item."
+},
+{
+	"name":"Flower Shield",
+	"type":18,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power."
+},
+{
+	"name":"Fly",
+	"type":3,
+	"pp":15,
+	"power":90,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town."
+},
+{
+	"name":"Flying Press",
+	"type":2,
+	"pp":10,
+	"power":80,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+},
+{
+	"name":"Focus Blast",
+	"type":2,
+	"pp":5,
+	"power":120,
+	"accuracy":70,
+	"category":2,
+	"damage":4,
+	"description":"The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def."
+},
+{
+	"name":"Focus Energy",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user takes a deep breath and focuses so that critical hits land more easily."
+},
+{
+	"name":"Focus Punch",
+	"type":2,
+	"pp":20,
+	"power":150,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user focuses its mind before launching a punch. This move fails if the user is hit before it is used."
+},
+{
+	"name":"Follow Me",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user draws attention to itself, making all targets take aim only at the user."
+},
+{
+	"name":"Force Palm",
+	"type":2,
+	"pp":10,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is attacked with a shock wave. This may also leave the target with paralysis."
+},
+{
+	"name":"Foresight",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit."
+},
+{
+	"name":"Forest's Curse",
+	"type":12,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user puts a forest curse on the target. Afflicted targets are now Grass type as well."
+},
+{
+	"name":"Foul Play",
+	"type":17,
+	"pp":15,
+	"power":95,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user turns the target's power against it. The higher the target's Attack stat, the greater the move’s power."
+},
+{
+	"name":"Freeze Shock",
+	"type":15,
+	"pp":5,
+	"power":140,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis."
+},
+{
+	"name":"Freeze-Dry",
+	"type":15,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types."
+},
+{
+	"name":"Frenzy Plant",
+	"type":12,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user slams the target with an enormous tree. The user can’t move on the next turn."
+},
+{
+	"name":"Frost Breath",
+	"type":15,
+	"pp":10,
+	"power":60,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user blows its cold breath on the target. This attack always results in a critical hit."
+},
+{
+	"name":"Frustration",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A full-power attack that grows more powerful the less the user likes its Trainer."
+},
+{
+	"name":"Fury Attack",
+	"type":1,
+	"pp":20,
+	"power":15,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The target is jabbed repeatedly with a horn or beak two to five times in a row."
+},
+{
+	"name":"Fury Cutter",
+	"type":7,
+	"pp":20,
+	"power":40,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession."
+},
+{
+	"name":"Fury Swipes",
+	"type":1,
+	"pp":15,
+	"power":18,
+	"accuracy":80,
+	"category":1,
+	"damage":1,
+	"description":"The target is raked with sharp claws or scythes quickly two to five times in a row."
+},
+{
+	"name":"Fusion Bolt",
+	"type":13,
+	"pp":5,
+	"power":100,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user throws down a giant thunderbolt. This move is more powerful when influenced by an enormous flame."
+},
+{
+	"name":"Fusion Flare",
+	"type":10,
+	"pp":5,
+	"power":100,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user brings down a giant flame. This move is more powerful when influenced by an enormous thunderbolt."
+},
+{
+	"name":"Future Sight",
+	"type":14,
+	"pp":10,
+	"power":120,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Two turns after this move is used, a hunk of psychic energy attacks the target."
+},
+{
+	"name":"Gastro Acid",
+	"type":4,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+},
+{
+	"name":"Gear Grind",
+	"type":9,
+	"pp":15,
+	"power":50,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by throwing steel gears at its target twice."
+},
+{
+	"name":"Geomancy",
+	"type":18,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn."
+},
+{
+	"name":"Giga Drain",
+	"type":12,
+	"pp":10,
+	"power":75,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+},
+{
+	"name":"Giga Impact",
+	"type":1,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user charges at the target using every bit of its power. The user can’t move on the next turn."
+},
+{
+	"name":"Glaciate",
+	"type":15,
+	"pp":10,
+	"power":65,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stat."
+},
+{
+	"name":"Glare",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user intimidates the target with the pattern on its belly to cause paralysis."
+},
+{
+	"name":"Grass Knot",
+	"type":12,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user snares the target with grass and trips it. The heavier the target, the greater the move's power."
+},
+{
+	"name":"Grass Pledge",
+	"type":12,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A column of grass hits the target. When used with its water equivalent, its damage increases and a vast swamp appears."
+},
+{
+	"name":"Grass Whistle",
+	"type":12,
+	"pp":15,
+	"power":0,
+	"accuracy":55,
+	"category":3,
+	"damage":0,
+	"description":"The user plays a pleasant melody that lulls the target into a deep sleep."
+},
+{
+	"name":"Grassy Terrain",
+	"type":12,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn."
+},
+{
+	"name":"Gravity",
+	"type":14,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Gravity is intensified for five turns, making moves involving flying unusable and negating Levitate."
+},
+{
+	"name":"Growl",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats."
+},
+{
+	"name":"Growth",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user's body grows all at once, raising the Attack and Sp. Atk stats."
+},
+{
+	"name":"Grudge",
+	"type":8,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"If the user faints, the user's grudge fully depletes the PP of the opponent’s move that knocked it out."
+},
+{
+	"name":"Guard Split",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to average its Defense and Sp. Def stats with those of the target."
+},
+{
+	"name":"Guard Swap",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target."
+},
+{
+	"name":"Guillotine",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":30,
+	"category":1,
+	"damage":1,
+	"description":"A vicious, tearing attack with big pincers. The target faints instantly if this attack hits."
+},
+{
+	"name":"Gunk Shot",
+	"type":4,
+	"pp":5,
+	"power":120,
+	"accuracy":80,
+	"category":1,
+	"damage":1,
+	"description":"The user shoots filthy garbage at the target to attack. This may also poison the target."
+},
+{
+	"name":"Gust",
+	"type":3,
+	"pp":35,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A gust of wind is whipped up by wings and launched at the target to inflict damage."
+},
+{
+	"name":"Gyro Ball",
+	"type":9,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move's power."
+},
+{
+	"name":"Hail",
+	"type":15,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type."
+},
+{
+	"name":"Hammer Arm",
+	"type":2,
+	"pp":10,
+	"power":100,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user swings and hits with its strong and heavy fist. It lowers the user's Speed, however."
+},
+{
+	"name":"Happy Hour",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Using Happy Hour doubles the amount of prize money received after battle."
+},
+{
+	"name":"Harden",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user stiffens all the muscles in its body to raise its defense stat."
+},
+{
+	"name":"Haze",
+	"type":15,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+},
+{
+	"name":"Head Charge",
+	"type":1,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user charges its head into its target, using its powerful guard hair. This also damages the user a little."
+},
+{
+	"name":"Head Smash",
+	"type":6,
+	"pp":5,
+	"power":150,
+	"accuracy":80,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly."
+},
+{
+	"name":"Headbutt",
+	"type":1,
+	"pp":15,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch."
+},
+{
+	"name":"Heal Bell",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user makes a soothing bell chime to heal the status conditions of all the party Pokémon."
+},
+{
+	"name":"Heal Block",
+	"type":14,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP."
+},
+{
+	"name":"Heal Order",
+	"type":7,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user calls out its underlings to heal it. The user regains up to half of its max HP."
+},
+{
+	"name":"Heal Pulse",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user emits a healing pulse which restores the target's HP by up to half of its max HP."
+},
+{
+	"name":"Healing Wish",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured."
+},
+{
+	"name":"Heart Stamp",
+	"type":14,
+	"pp":25,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user unleashes a vicious blow after its cute act makes the target less wary. This may also make the target flinch."
+},
+{
+	"name":"Heart Swap",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to switch stat changes with the target."
+},
+{
+	"name":"Heat Crash",
+	"type":10,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move’s power."
+},
+{
+	"name":"Heat Wave",
+	"type":10,
+	"pp":10,
+	"power":95,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by exhaling hot breath on the opposing Pokémon. This may also leave those Pokémon with a burn."
+},
+{
+	"name":"Heavy Slam",
+	"type":9,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power."
+},
+{
+	"name":"Helping Hand",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user assists an ally by boosting the power of that ally's attack."
+},
+{
+	"name":"Hex",
+	"type":8,
+	"pp":10,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"This relentless attack does massive damage to a target affected by status conditions."
+},
+{
+	"name":"Hidden Power",
+	"type":1,
+	"pp":15,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A unique attack that varies in type depending on the Pokémon using it."
+},
+{
+	"name":"High Jump Kick",
+	"type":2,
+	"pp":10,
+	"power":130,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead."
+},
+{
+	"name":"Hold Back",
+	"type":1,
+	"pp":40,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user holds back when it attacks and the target is left with at least 1 HP."
+},
+{
+	"name":"Hold Hands",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user and an ally hold hands. This makes them very happy."
+},
+{
+	"name":"Hone Claws",
+	"type":17,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user sharpens its claws to to boost its Attack stat and accuracy."
+},
+{
+	"name":"Horn Attack",
+	"type":1,
+	"pp":25,
+	"power":65,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is jabbed with a sharply pointed horn to inflict damage."
+},
+{
+	"name":"Horn Drill",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":30,
+	"category":1,
+	"damage":1,
+	"description":"The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits."
+},
+{
+	"name":"Horn Leech",
+	"type":12,
+	"pp":10,
+	"power":75,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target."
+},
+{
+	"name":"Howl",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user howls loudly to raise its spirit, which raises its Attack stat."
+},
+{
+	"name":"Hurricane",
+	"type":3,
+	"pp":10,
+	"power":110,
+	"accuracy":70,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target."
+},
+{
+	"name":"Hydro Cannon",
+	"type":11,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The target is hit with a watery blast. The user can't move on the next turn."
+},
+{
+	"name":"Hydro Pump",
+	"type":11,
+	"pp":5,
+	"power":110,
+	"accuracy":80,
+	"category":2,
+	"damage":4,
+	"description":"The target is blasted by a huge volume of water launched under great pressure."
+},
+{
+	"name":"Hyper Beam",
+	"type":1,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with a powerful beam. The user can't move on the next turn."
+},
+{
+	"name":"Hyper Fang",
+	"type":1,
+	"pp":15,
+	"power":80,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user bites hard on the target with its sharp front fangs. This may also make the target flinch."
+},
+{
+	"name":"Hyper Voice",
+	"type":1,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user lets loose a horribly echoing shout with the power to inflict damage."
+},
+{
+	"name":"Hypnosis",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":60,
+	"category":3,
+	"damage":0,
+	"description":"The users employs hypnotic suggestion to make the target fall into a deep sleep."
+},
+{
+	"name":"Ice Ball",
+	"type":15,
+	"pp":20,
+	"power":30,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user continually rolls into the target over five turns. It becomes stronger each time it hits."
+},
+{
+	"name":"Ice Beam",
+	"type":15,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is struck with an icy-cold beam of energy. This may also leave the target frozen."
+},
+{
+	"name":"Ice Burn",
+	"type":15,
+	"pp":5,
+	"power":140,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn."
+},
+{
+	"name":"Ice Fang",
+	"type":15,
+	"pp":15,
+	"power":65,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen."
+},
+{
+	"name":"Ice Punch",
+	"type":15,
+	"pp":15,
+	"power":75,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is punched with an icy fist. This may also leave the target frozen."
+},
+{
+	"name":"Ice Shard",
+	"type":15,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user flash-freezes chunks of ice and hurls them at the target. This move always goes first."
+},
+{
+	"name":"Icicle Crash",
+	"type":15,
+	"pp":10,
+	"power":85,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch."
+},
+{
+	"name":"Icicle Spear",
+	"type":15,
+	"pp":30,
+	"power":25,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user launches sharp icicles at the target two to five times in a row."
+},
+{
+	"name":"Icy Wind",
+	"type":15,
+	"pp":15,
+	"power":55,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a gust of chilled air. This also lowers the opposing Pokémon's Speed stats."
+},
+{
+	"name":"Imprison",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"If opposing Pokémon know any move also known by the user, they are prevented from using it."
+},
+{
+	"name":"Incinerate",
+	"type":10,
+	"pp":15,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable."
+},
+{
+	"name":"Inferno",
+	"type":10,
+	"pp":5,
+	"power":100,
+	"accuracy":50,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by engulfing the target in an intense fire. This leaves the target with a burn."
+},
+{
+	"name":"Infestation",
+	"type":7,
+	"pp":20,
+	"power":20,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is infested and attacked for four to five turns. The target can't flee during this time."
+},
+{
+	"name":"Ingrain",
+	"type":12,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lays roots that restore its HP on every turn. Because it is rooted, it can't switch out."
+},
+{
+	"name":"Ion Deluge",
+	"type":13,
+	"pp":25,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves."
+},
+{
+	"name":"Iron Defense",
+	"type":9,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user hardens its body's surface like iron, sharply raising its Defense stat."
+},
+{
+	"name":"Iron Head",
+	"type":9,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slams the target with its steel-hard head. This may also make the target flinch."
+},
+{
+	"name":"Iron Tail",
+	"type":9,
+	"pp":15,
+	"power":100,
+	"accuracy":75,
+	"category":1,
+	"damage":1,
+	"description":"The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat."
+},
+{
+	"name":"Judgment",
+	"type":1,
+	"pp":10,
+	"power":100,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user releases countless shots of light at the target. This move's type varies depending on the kind of Plate the user is holding."
+},
+{
+	"name":"Jump Kick",
+	"type":2,
+	"pp":10,
+	"power":100,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself."
+},
+{
+	"name":"Karate Chop",
+	"type":2,
+	"pp":25,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is attacked with a sharp chop. Critical hits land more easily."
+},
+{
+	"name":"Kinesis",
+	"type":14,
+	"pp":15,
+	"power":0,
+	"accuracy":80,
+	"category":3,
+	"damage":0,
+	"description":"The user distracts the target by bending a spoon. This lowers the target's accuracy."
+},
+{
+	"name":"King's Shield",
+	"type":9,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct"
+},
+{
+	"name":"Knock Off",
+	"type":17,
+	"pp":25,
+	"power":65,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item."
+},
+{
+	"name":"Land's Wrath",
+	"type":5,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user gathers the energy of the land and focuses that power on opposing Pokémon to damage them."
+},
+{
+	"name":"Last Resort",
+	"type":1,
+	"pp":5,
+	"power":140,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"This move can be used only after the user has used all the other moves it knows in the battle."
+},
+{
+	"name":"Lava Plume",
+	"type":10,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn."
+},
+{
+	"name":"Leaf Blade",
+	"type":12,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily."
+},
+{
+	"name":"Leaf Storm",
+	"type":12,
+	"pp":5,
+	"power":130,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat."
+},
+{
+	"name":"Leaf Tornado",
+	"type":12,
+	"pp":10,
+	"power":65,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks its target by encircling it in sharp leaves. This attack may also lower the target's accuracy."
+},
+{
+	"name":"Leech Life",
+	"type":7,
+	"pp":15,
+	"power":20,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user drains the target's blood. The user's HP is restored by half the damage taken by the target."
+},
+{
+	"name":"Leech Seed",
+	"type":12,
+	"pp":10,
+	"power":0,
+	"accuracy":90,
+	"category":3,
+	"damage":0,
+	"description":"A seed is planted on the target. It steals some HP from the target every turn."
+},
+{
+	"name":"Leer",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user gives opposing Pokémon an intimidating leer that lowers the Defense stat."
+},
+{
+	"name":"Lick",
+	"type":8,
+	"pp":30,
+	"power":30,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is licked with a long tongue, causing damage. This may also leave the target with paralysis."
+},
+{
+	"name":"Light Screen",
+	"type":14,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A wonderous wall of light is put up to reduce damage from special attacks for five turns."
+},
+{
+	"name":"Lock-On",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user takes sure aim at the target. This ensures the next attack does not miss the target."
+},
+{
+	"name":"Lovely Kiss",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":75,
+	"category":3,
+	"damage":0,
+	"description":"With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep."
+},
+{
+	"name":"Low Kick",
+	"type":2,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power."
+},
+{
+	"name":"Low Sweep",
+	"type":2,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user makes a swift attack on the target's legs, which lowers the target's Speed stat."
+},
+{
+	"name":"Lucky Chant",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits."
+},
+{
+	"name":"Lunar Dance",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user faints. In return, the Pokémon taking its place will have its status and HP fully restored."
+},
+{
+	"name":"Luster Purge",
+	"type":14,
+	"pp":5,
+	"power":70,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user lets loose a damaging burst of light. This may also lower the target's Sp. Def stat."
+},
+{
+	"name":"Mach Punch",
+	"type":2,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user throws a punch at blinding speed. This move always goes first."
+},
+{
+	"name":"Magic Coat",
+	"type":14,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A barrier reflects back to the target moves like Leech Seed and moves that damage status."
+},
+{
+	"name":"Magic Room",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user creates a bizarre area in which Pokémon's held items lose their effects for five turns."
+},
+{
+	"name":"Magical Leaf",
+	"type":12,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"The user scatters curious leaves that chase the target. This attack never misses."
+},
+{
+	"name":"Magma Storm",
+	"type":10,
+	"pp":5,
+	"power":100,
+	"accuracy":75,
+	"category":2,
+	"damage":4,
+	"description":"The target becomes trapped within a maelstrom of fire that rages for four to five turns."
+},
+{
+	"name":"Magnet Bomb",
+	"type":9,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"The user launches steel bombs that stick to the target. This attack never misses."
+},
+{
+	"name":"Magnet Rise",
+	"type":13,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user levitates using electrically generated magnetism for five turns."
+},
+{
+	"name":"Magnetic Flux",
+	"type":13,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability."
+},
+{
+	"name":"Magnitude",
+	"type":5,
+	"pp":30,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks everything around it with a ground-shaking quake. Its power varies."
+},
+{
+	"name":"Mat Block",
+	"type":2,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves."
+},
+{
+	"name":"Me First",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Anwender stiehlt und führt die Attacke eines langsameren Zieles zuerst und mit größerer Kraft aus."
+},
+{
+	"name":"Mean Look",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user pins the target with a dark, arresting look. The target becomes unable to flee."
+},
+{
+	"name":"Meditate",
+	"type":14,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user meditates to awaken the power deep within its body and raise its Attack stat."
+},
+{
+	"name":"Mega Drain",
+	"type":12,
+	"pp":15,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A nutrient-draining attack. The user's HP is restored by half the damage taken by the target."
+},
+{
+	"name":"Mega Kick",
+	"type":1,
+	"pp":5,
+	"power":120,
+	"accuracy":75,
+	"category":1,
+	"damage":1,
+	"description":"The target is attacked by a kick launched with muscle-packed power."
+},
+{
+	"name":"Mega Punch",
+	"type":1,
+	"pp":20,
+	"power":80,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The target is slugged by a punch thrown with muscle-packed power."
+},
+{
+	"name":"Megahorn",
+	"type":7,
+	"pp":10,
+	"power":120,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"Using its tough and impressive horn, the user rams into the target with no letup."
+},
+{
+	"name":"Memento",
+	"type":17,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user faints when using this move. In return, this harshly lowers the target’s Attack and Sp. Atk stats."
+},
+{
+	"name":"Metal Burst",
+	"type":9,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user retaliates with much greater power against the target that last inflicted damage on it."
+},
+{
+	"name":"Metal Claw",
+	"type":9,
+	"pp":35,
+	"power":50,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The target is raked with steel claws. This may also raise the user’s Attack stat."
+},
+{
+	"name":"Metal Sound",
+	"type":9,
+	"pp":40,
+	"power":0,
+	"accuracy":85,
+	"category":3,
+	"damage":0,
+	"description":"A horrible sound like scraping metal harshly lowers the target's Sp. Def stat."
+},
+{
+	"name":"Meteor Mash",
+	"type":9,
+	"pp":10,
+	"power":90,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The target is hit with a hard punch fired like a meteor. This may also raise the user's Attack stat."
+},
+{
+	"name":"Metronome",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user waggles a finger and stimulates its brain into randomly using nearly any move."
+},
+{
+	"name":"Milk Drink",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP."
+},
+{
+	"name":"Mimic",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user copies the target's last move. The move can be used during battle until the Pokémon is switched out."
+},
+{
+	"name":"Mind Reader",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user senses the target's movements with its mind to ensure its next attack does not miss the target."
+},
+{
+	"name":"Minimize",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user compresses its body to make itself look smaller, which sharply raises its evasiveness."
+},
+{
+	"name":"Miracle Eye",
+	"type":14,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit."
+},
+{
+	"name":"Mirror Coat",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A relitation move that counters any special attack, inflicting double the damage taken."
+},
+{
+	"name":"Mirror Move",
+	"type":3,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user counters the target by mimicking the target's last move."
+},
+{
+	"name":"Mirror Shot",
+	"type":9,
+	"pp":10,
+	"power":65,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy."
+},
+{
+	"name":"Mist",
+	"type":15,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns."
+},
+{
+	"name":"Mist Ball",
+	"type":14,
+	"pp":5,
+	"power":70,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat."
+},
+{
+	"name":"Misty Terrain",
+	"type":18,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions."
+},
+{
+	"name":"Moonblast",
+	"type":18,
+	"pp":15,
+	"power":95,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+},
+{
+	"name":"Moonlight",
+	"type":18,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user restores its own HP. The amount of HP regained varies with the weather."
+},
+{
+	"name":"Morning Sun",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user restores its own HP. The amount of HP regained varies with the weather."
+},
+{
+	"name":"Mud Bomb",
+	"type":5,
+	"pp":10,
+	"power":65,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user launches a hard-packed mud ball to attack. This may also lower the target's accuracy."
+},
+{
+	"name":"Mud Shot",
+	"type":5,
+	"pp":15,
+	"power":55,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by hurling a blob of mud at the target. This may also lowers the target's Speed stat."
+},
+{
+	"name":"Mud Sport",
+	"type":5,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user launches a hard-packed mud ball to attack. This may also lower the target's accuracy."
+},
+{
+	"name":"Mud-Slap",
+	"type":5,
+	"pp":10,
+	"power":20,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user hurls mud in the target's face to inflict damage and lower its accuracy."
+},
+{
+	"name":"Muddy Water",
+	"type":11,
+	"pp":10,
+	"power":90,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy."
+},
+{
+	"name":"Mystical Fire",
+	"type":10,
+	"pp":10,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
+},
+{
+	"name":"Nasty Plot",
+	"type":17,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk."
+},
+{
+	"name":"Natural Gift",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user draws power to attack by using its held Berry. The Berry determines the move's type and power."
+},
+{
+	"name":"Nature Power",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"An attack that makes use of nature's power. Its effects vary depending on the user's environment."
+},
+{
+	"name":"Needle Arm",
+	"type":12,
+	"pp":15,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by wildly swinging its thorny arms. This may also make the target flinch."
+},
+{
+	"name":"Night Daze",
+	"type":17,
+	"pp":10,
+	"power":85,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user lets loose a pitch-black shock wave at its target. This may also lower the target's accuracy."
+},
+{
+	"name":"Night Shade",
+	"type":8,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user makes the target see a frightening mirage. It inflicts damage equal to the user's level."
+},
+{
+	"name":"Night Slash",
+	"type":17,
+	"pp":15,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slashes the target the instant an opportunity arises. Critical hits land more easily."
+},
+{
+	"name":"Nightmare",
+	"type":8,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"A sleeping target sees a nightmare that inflicts some damage every turn."
+},
+{
+	"name":"Noble Roar",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats."
+},
+{
+	"name":"Nuzzle",
+	"type":13,
+	"pp":20,
+	"power":20,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+},
+{
+	"name":"Oblivion Wing",
+	"type":3,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target."
+},
+{
+	"name":"Octazooka",
+	"type":11,
+	"pp":10,
+	"power":65,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks by spraying ink in the target's face or eyes. This may also lower the target's accuracy."
+},
+{
+	"name":"Odor Sleuth",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit."
+},
+{
+	"name":"Ominous Wind",
+	"type":8,
+	"pp":5,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user blasts the target with a gust of repulsive wind. This may also raise all the user's stats at once."
+},
+{
+	"name":"Origin Pulse",
+	"type":11,
+	"pp":10,
+	"power":110,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue."
+},
+{
+	"name":"Outrage",
+	"type":16,
+	"pp":10,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user rampages and attacks for two to three turns. The user then becomes confused."
+},
+{
+	"name":"Overheat",
+	"type":10,
+	"pp":5,
+	"power":130,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat."
+},
+{
+	"name":"Pain Split",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user adds its HP to the target's HP, then equally shares the combined HP with the target."
+},
+{
+	"name":"Parabolic Charge",
+	"type":13,
+	"pp":20,
+	"power":50,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+},
+{
+	"name":"Parting Shot",
+	"type":17,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches with a party Pokémon."
+},
+{
+	"name":"Pay Day",
+	"type":1,
+	"pp":20,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Numerous coins are hurled at the target to inflict damage. Money is earned after the battle."
+},
+{
+	"name":"Payback",
+	"type":17,
+	"pp":10,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user stores power, then attacks. If the user moves after the target, this attack's power will be doubled."
+},
+{
+	"name":"Peck",
+	"type":3,
+	"pp":35,
+	"power":35,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is jabbed with a sharply pointed beak or horn."
+},
+{
+	"name":"Perish Song",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Any Pokémon that hears this song faints in three turns, unless it switches out of battle."
+},
+{
+	"name":"Petal Blizzard",
+	"type":12,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user stirs up a violent petal blizzard and attacks everything around it."
+},
+{
+	"name":"Petal Dance",
+	"type":12,
+	"pp":10,
+	"power":120,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target by scattering petals for two to three turns. The user then becomes confused."
+},
+{
+	"name":"Phantom Force",
+	"type":8,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+},
+{
+	"name":"Pin Missile",
+	"type":7,
+	"pp":20,
+	"power":25,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+},
+{
+	"name":"Play Nice",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+},
+{
+	"name":"Play Rough",
+	"type":18,
+	"pp":10,
+	"power":90,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user plays rough with the target and attacks it. This may also lower the target's Attack stat."
+},
+{
+	"name":"Pluck",
+	"type":3,
+	"pp":20,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect."
+},
+{
+	"name":"Poison Fang",
+	"type":4,
+	"pp":15,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user bites the target with toxic fangs. This may also leave the target badly poisoned."
+},
+{
+	"name":"Poison Gas",
+	"type":4,
+	"pp":40,
+	"power":0,
+	"accuracy":90,
+	"category":3,
+	"damage":0,
+	"description":"A cloud of poison gas is sprayed in the face of opposing Pokémon. This may also poison those hit."
+},
+{
+	"name":"Poison Jab",
+	"type":4,
+	"pp":20,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target."
+},
+{
+	"name":"Poison Powder",
+	"type":4,
+	"pp":35,
+	"power":0,
+	"accuracy":75,
+	"category":3,
+	"damage":0,
+	"description":"The user scatters a cloud of poisonous dust on the target. This may also poison the target."
+},
+{
+	"name":"Poison Sting",
+	"type":4,
+	"pp":35,
+	"power":15,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user stabs the target with a poisonous stinger. This may also poison the target."
+},
+{
+	"name":"Poison Tail",
+	"type":4,
+	"pp":25,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user hits the target with its tail. This may also poison the target. Critical hits land more easily."
+},
+{
+	"name":"Pound",
+	"type":1,
+	"pp":35,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is physically pounded with a long tail, a foreleg, or the like."
+},
+{
+	"name":"Powder",
+	"type":7,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move."
+},
+{
+	"name":"Powder Snow",
+	"type":15,
+	"pp":25,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon."
+},
+{
+	"name":"Power Gem",
+	"type":6,
+	"pp":20,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a ray of light that sparkles as if it were made of gemstones."
+},
+{
+	"name":"Power Split",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target."
+},
+{
+	"name":"Power Swap",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target."
+},
+{
+	"name":"Power Trick",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to switch its Attack with its Defense stat."
+},
+{
+	"name":"Power Whip",
+	"type":12,
+	"pp":10,
+	"power":120,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user violently whirls its vines or tentacles to harshly lash the target."
+},
+{
+	"name":"Power-Up Punch",
+	"type":2,
+	"pp":20,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Striking oppontents over and over makes the user's fists harder. Hitting a target raises the Attack stat."
+},
+{
+	"name":"Precipice Blades",
+	"type":5,
+	"pp":10,
+	"power":120,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone."
+},
+{
+	"name":"Present",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however."
+},
+{
+	"name":"Protect",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+},
+{
+	"name":"Psybeam",
+	"type":14,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with a peculiar ray. This may also leave the target confused."
+},
+{
+	"name":"Psych Up",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user hypnotizes itself into copying any stat change made by the target."
+},
+{
+	"name":"Psychic",
+	"type":14,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat."
+},
+{
+	"name":"Psycho Boost",
+	"type":14,
+	"pp":5,
+	"power":140,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat."
+},
+{
+	"name":"Psycho Cut",
+	"type":14,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user tears at the target with blades formed by psychic power. Critical hits land more easily."
+},
+{
+	"name":"Psycho Shift",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"Using its psychic power of suggestion, the user transfers its status conditions to the target."
+},
+{
+	"name":"Psyshock",
+	"type":14,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":2,
+	"description":"The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+},
+{
+	"name":"Psystrike",
+	"type":14,
+	"pp":10,
+	"power":100,
+	"accuracy":100,
+	"category":2,
+	"damage":2,
+	"description":"The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+},
+{
+	"name":"Psywave",
+	"type":14,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with an odd psychic wave. The attack varies in intensity."
+},
+{
+	"name":"Punishment",
+	"type":17,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The more the target has powered up with stat changes, the greater the move's power."
+},
+{
+	"name":"Pursuit",
+	"type":17,
+	"pp":20,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack move that inflicts double damage if used on a target that is switching out of battle."
+},
+{
+	"name":"Quash",
+	"type":17,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user suppresses the target and makes its move go last."
+},
+{
+	"name":"Quick Attack",
+	"type":1,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user lunges at the target at a speed that makes it almost invisible. This move always goes first."
+},
+{
+	"name":"Quick Guard",
+	"type":2,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user protects itself and its allies from priority moves."
+},
+{
+	"name":"Quiver Dance",
+	"type":7,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats."
+},
+{
+	"name":"Rage",
+	"type":1,
+	"pp":20,
+	"power":20,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle."
+},
+{
+	"name":"Rage Powder",
+	"type":7,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user."
+},
+{
+	"name":"Rain Dance",
+	"type":11,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+},
+{
+	"name":"Rapid Spin",
+	"type":1,
+	"pp":40,
+	"power":20,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes."
+},
+{
+	"name":"Razor Leaf",
+	"type":12,
+	"pp":25,
+	"power":55,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily."
+},
+{
+	"name":"Razor Shell",
+	"type":11,
+	"pp":10,
+	"power":75,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user cuts its target with sharp shells. This may also lower the target's Defense stat."
+},
+{
+	"name":"Razor Wind",
+	"type":1,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A two-turn attack. Blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily."
+},
+{
+	"name":"Recover",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Restoring its own cells, the user restores its own HP by half of its max HP."
+},
+{
+	"name":"Recycle",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user recycles a held item that has been used in battle so it can be used again."
+},
+{
+	"name":"Reflect",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A wonderous wall of light is put up to reduce damage from physical attacks for five turns."
+},
+{
+	"name":"Reflect Type",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user reflects the target's type, making it the same type as the target."
+},
+{
+	"name":"Refresh",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user rests to cure itself of a poisoning, burn, or paralysis."
+},
+{
+	"name":"Relic Song",
+	"type":1,
+	"pp":10,
+	"power":75,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep."
+},
+{
+	"name":"Rest",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions."
+},
+{
+	"name":"Retaliate",
+	"type":1,
+	"pp":5,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move becomes more powerful."
+},
+{
+	"name":"Return",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A full power attack that grows more powerful the more the user likes its trainer."
+},
+{
+	"name":"Revenge",
+	"type":2,
+	"pp":10,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An attack move that inflicts double the damage if the user has been hurt by the opponent in the same turn."
+},
+{
+	"name":"Reversal",
+	"type":2,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"An all-out attack that becomes more powerful the less HP the user has."
+},
+{
+	"name":"Roar",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+},
+{
+	"name":"Roar of Time",
+	"type":16,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The user blasts the target with power that distorts even time. The user can’t move on the next turn."
+},
+{
+	"name":"Rock Blast",
+	"type":6,
+	"pp":10,
+	"power":25,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user hurls hard rocks at the target. Two to five rocks are launched in a row."
+},
+{
+	"name":"Rock Climb",
+	"type":1,
+	"pp":20,
+	"power":90,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks the target by smashing into it with incredible force. This may also confuse the target."
+},
+{
+	"name":"Rock Polish",
+	"type":6,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user polishes its body to reduce drag. This can sharply raise the Speed stat."
+},
+{
+	"name":"Rock Slide",
+	"type":6,
+	"pp":10,
+	"power":75,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch."
+},
+{
+	"name":"Rock Smash",
+	"type":2,
+	"pp":15,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks with a punch. This may also lower the target's Defense stat. This move can also shatter rocks in the field."
+},
+{
+	"name":"Rock Throw",
+	"type":6,
+	"pp":15,
+	"power":50,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user picks up and throws a small rock at the target to attack."
+},
+{
+	"name":"Rock Tomb",
+	"type":6,
+	"pp":15,
+	"power":60,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement."
+},
+{
+	"name":"Rock Wrecker",
+	"type":6,
+	"pp":5,
+	"power":150,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user launches a huge boulder at the target to attack. The user can't move on the next turn."
+},
+{
+	"name":"Role Play",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user mimics the target completely, copying the target's natural Ability."
+},
+{
+	"name":"Rolling Kick",
+	"type":2,
+	"pp":15,
+	"power":60,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user lashes out with a quick, spinning kick. This may also make the target flinch."
+},
+{
+	"name":"Rollout",
+	"type":6,
+	"pp":20,
+	"power":30,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user continually rolls into the target over five turns. It becomes more powerful each time it hits."
+},
+{
+	"name":"Roost",
+	"type":3,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lands and rests its body. It restores the user's HP by up to half of its max HP."
+},
+{
+	"name":"Rototiller",
+	"type":5,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon."
+},
+{
+	"name":"Round",
+	"type":1,
+	"pp":15,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a song. Others can join in the Round and make the attack do greater damage."
+},
+{
+	"name":"Sacred Fire",
+	"type":10,
+	"pp":5,
+	"power":100,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The target is razed with a mystical fire of great intensity. This may also leave the target with a burn."
+},
+{
+	"name":"Sacred Sword",
+	"type":2,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by slicing with a long horn. The target's stat changes don’t affect this attack's damage."
+},
+{
+	"name":"Safeguard",
+	"type":1,
+	"pp":25,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user creates a protective field that prevents status conditions for five turns."
+},
+{
+	"name":"Sand Attack",
+	"type":5,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"Sand is hurled in the target's face, reducing the target's accuracy."
+},
+{
+	"name":"Sand Tomb",
+	"type":5,
+	"pp":15,
+	"power":35,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user traps the target inside a harshly raging sandstorm for four to five turns."
+},
+{
+	"name":"Sandstorm",
+	"type":6,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A five-turn sandstorm is summoned to hurt all combatants except for Rock, Ground, and Steel types."
+},
+{
+	"name":"Scald",
+	"type":11,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user shoots boiling hot water at its target. This may also leave the target with a burn."
+},
+{
+	"name":"Scary Face",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user frightens the target with a scary face to harshly lower its Speed stat."
+},
+{
+	"name":"Scratch",
+	"type":1,
+	"pp":35,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Hard, pointed, sharp claws rake the target to inflict damage."
+},
+{
+	"name":"Screech",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":85,
+	"category":3,
+	"damage":0,
+	"description":"An earsplitting screen harshly lowers the target's Defense stat."
+},
+{
+	"name":"Searing Shot",
+	"type":10,
+	"pp":5,
+	"power":100,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user torches everything around it with an inferno of scarlet flames. This may also leave those hit with a burn."
+},
+{
+	"name":"Secret Power",
+	"type":1,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks the target with a secret power. Its additional effects vary depending on the user’s environment."
+},
+{
+	"name":"Secret Sword",
+	"type":2,
+	"pp":10,
+	"power":85,
+	"accuracy":100,
+	"category":2,
+	"damage":2,
+	"description":"The user cuts with its long horn. The odd power contained in the horn does physical damage to the target."
+},
+{
+	"name":"Seed Bomb",
+	"type":12,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slams a barrage of hard-shelled seeds down on the target from above."
+},
+{
+	"name":"Seed Flare",
+	"type":12,
+	"pp":5,
+	"power":120,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user emits a shock wave from its body to attack its target. This may also harshly lower the target's Sp. Def."
+},
+{
+	"name":"Seismic Toss",
+	"type":2,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+},
+{
+	"name":"Self-Destruct",
+	"type":1,
+	"pp":5,
+	"power":200,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks everything around it by causing an explosion. The user faints upon using this move."
+},
+{
+	"name":"Shadow Ball",
+	"type":8,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat."
+},
+{
+	"name":"Shadow Claw",
+	"type":8,
+	"pp":15,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slashes with a sharp claw made from shadows. Critical hits land more easily."
+},
+{
+	"name":"Shadow Force",
+	"type":8,
+	"pp":5,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself."
+},
+{
+	"name":"Shadow Punch",
+	"type":8,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"The user throws a punch from the shadows. This attack never misses."
+},
+{
+	"name":"Shadow Sneak",
+	"type":8,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user extends its shadow and attacks the target from behind. This move always goes first."
+},
+{
+	"name":"Sharpen",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lowers its polygon count to make itself more jagged, raising the Attack stat."
+},
+{
+	"name":"Sheer Cold",
+	"type":15,
+	"pp":5,
+	"power":0,
+	"accuracy":30,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with a blast of absolute-zero cold. The target faints instantly if this attack hits."
+},
+{
+	"name":"Shell Smash",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats."
+},
+{
+	"name":"Shift Gear",
+	"type":9,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user rotates its gears, raising its Attack and sharply raising its Speed."
+},
+{
+	"name":"Shock Wave",
+	"type":13,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"The user strikes the target with a quick jolt of electricity. This attack never misses."
+},
+{
+	"name":"Signal Beam",
+	"type":7,
+	"pp":15,
+	"power":75,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks with a sinister beam of light. This may also confuse the target."
+},
+{
+	"name":"Silver Wind",
+	"type":7,
+	"pp":5,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with powdery scales blown by wind. This may also raise all the user's stats."
+},
+{
+	"name":"Simple Beam",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user's mysterious psychic wave changes the target's Ability to Simple."
+},
+{
+	"name":"Sing",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":55,
+	"category":3,
+	"damage":0,
+	"description":"A soothing lullaby is sung in a calming voice that puts the target into a deep slumber."
+},
+{
+	"name":"Sketch",
+	"type":1,
+	"pp":1,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+},
+{
+	"name":"Skill Swap",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user employs its psychic power to exchange Abilities with the target."
+},
+{
+	"name":"Skull Bash",
+	"type":1,
+	"pp":10,
+	"power":130,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user tucks in its head to raise its Defense in the first turn, then rams the target on the next turn."
+},
+{
+	"name":"Sky Attack",
+	"type":3,
+	"pp":5,
+	"power":140,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"A second-turn attack move where critical hits land more easily. This may also make the target flinch."
+},
+{
+	"name":"Sky Drop",
+	"type":3,
+	"pp":10,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky."
+},
+{
+	"name":"Sky Uppercut",
+	"type":2,
+	"pp":15,
+	"power":85,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks the target with an uppercut thrown skyward with force."
+},
+{
+	"name":"Slack Off",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user slacks off, restoring its own HP by up to half of its max HP."
+},
+{
+	"name":"Slam",
+	"type":1,
+	"pp":20,
+	"power":80,
+	"accuracy":75,
+	"category":1,
+	"damage":1,
+	"description":"The target is slammed with a long tail, vines, or the like to inflict damage."
+},
+{
+	"name":"Slash",
+	"type":1,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is attacked with a slash of claws or blades. Critical hits land more easily."
+},
+{
+	"name":"Sleep Powder",
+	"type":12,
+	"pp":15,
+	"power":0,
+	"accuracy":75,
+	"category":3,
+	"damage":0,
+	"description":"The user scatters a big cloud of sleep-inducing dust around the target."
+},
+{
+	"name":"Sleep Talk",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"While it is asleep, the user randomly uses one of the moves it knows."
+},
+{
+	"name":"Sludge",
+	"type":4,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Unsanitary sludge is hurled at the target. This may also poison the target."
+},
+{
+	"name":"Sludge Bomb",
+	"type":4,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Unsanitary sludge is hurled at the target. This may also poison the target."
+},
+{
+	"name":"Sludge Wave",
+	"type":4,
+	"pp":10,
+	"power":95,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit."
+},
+{
+	"name":"Smack Down",
+	"type":6,
+	"pp":15,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit."
+},
+{
+	"name":"Smelling Salts",
+	"type":1,
+	"pp":10,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"This attack inflicts double damage on a target with paralysis. This also cures the target’s paralysis, however."
+},
+{
+	"name":"Smog",
+	"type":4,
+	"pp":20,
+	"power":30,
+	"accuracy":70,
+	"category":2,
+	"damage":4,
+	"description":"The target is attacked with a discharge of filthy gases. This may also poison the target."
+},
+{
+	"name":"Smokescreen",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy."
+},
+{
+	"name":"Snarl",
+	"type":17,
+	"pp":15,
+	"power":55,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user yells as if it’s ranting about something, which lowers the Sp. Atk stat of opposing Pokémon."
+},
+{
+	"name":"Snatch",
+	"type":17,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user steals the effects of any attempts to use a healing or stat-changing move."
+},
+{
+	"name":"Snore",
+	"type":1,
+	"pp":15,
+	"power":50,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"An attack that can be used only if the user is asleep. The harsh noise may also make the target flinch."
+},
+{
+	"name":"Soak",
+	"type":11,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user shoots a torrent of water at the target and changes the target's type to Water."
+},
+{
+	"name":"Soft-Boiled",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP."
+},
+{
+	"name":"Solar Beam",
+	"type":12,
+	"pp":10,
+	"power":120,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn."
+},
+{
+	"name":"Sonic Boom",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"The target is hit with a destructive shock wave that always inflicts 20 HP damage."
+},
+{
+	"name":"Spacial Rend",
+	"type":16,
+	"pp":5,
+	"power":100,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user tears the target along with the space around it. Critical hits land more easily."
+},
+{
+	"name":"Spark",
+	"type":13,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user throws an electrically charged tackle at the target. This may also leave the target with paralysis."
+},
+{
+	"name":"Spider Web",
+	"type":7,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user ensnares the target with thin, gooey silk so it can’t flee from battle."
+},
+{
+	"name":"Spike Cannon",
+	"type":1,
+	"pp":15,
+	"power":20,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row."
+},
+{
+	"name":"Spikes",
+	"type":5,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle."
+},
+{
+	"name":"Spiky Shield",
+	"type":12,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact."
+},
+{
+	"name":"Spit Up",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power."
+},
+{
+	"name":"Spite",
+	"type":8,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user unleashes its grudge on the move last used by the target by cutting 4 PP from it."
+},
+{
+	"name":"Splash",
+	"type":1,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user just flops and splashes around to no effect at all..."
+},
+{
+	"name":"Spore",
+	"type":12,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user scatters bursts of spores that induce sleep."
+},
+{
+	"name":"Stealth Rock",
+	"type":6,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that swith into battle."
+},
+{
+	"name":"Steam Eruption",
+	"type":11,
+	"pp":5,
+	"power":110,
+	"accuracy":95,
+	"category":2,
+	"damage":4,
+	"description":"The user immerses the target in superheated steam. This may also leave the target with a burn."
+},
+{
+	"name":"Steamroller",
+	"type":7,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch."
+},
+{
+	"name":"Steel Wing",
+	"type":9,
+	"pp":25,
+	"power":70,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The target is hit with wings of steel. This may also raise the user's Defense stat."
+},
+{
+	"name":"Sticky Web",
+	"type":7,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle."
+},
+{
+	"name":"Stockpile",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times."
+},
+{
+	"name":"Stomp",
+	"type":1,
+	"pp":20,
+	"power":65,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is stomped with a big foot. This may also make the target flinch."
+},
+{
+	"name":"Stone Edge",
+	"type":6,
+	"pp":5,
+	"power":100,
+	"accuracy":80,
+	"category":1,
+	"damage":1,
+	"description":"The user stabs the target with sharpened stones from below. Critical hits land more easily."
+},
+{
+	"name":"Stored Power",
+	"type":14,
+	"pp":10,
+	"power":20,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target with stored power. The more the user's stats are raised, the greater the move’s power."
+},
+{
+	"name":"Storm Throw",
+	"type":2,
+	"pp":10,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user strikes the target with a fierce blow. This attack always results in a critical hit."
+},
+{
+	"name":"Strength",
+	"type":1,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is slugged with a punch thrown at maximum power. This can also be used to move heavy boulders."
+},
+{
+	"name":"String Shot",
+	"type":7,
+	"pp":40,
+	"power":0,
+	"accuracy":95,
+	"category":3,
+	"damage":0,
+	"description":"The opposing Pokémon are bound with silk blown from the user's mouth that harshly lowers the Speed stat."
+},
+{
+	"name":"Struggle",
+	"type":1,
+	"pp":1,
+	"power":50,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"An attack that is used in desperation only if the user has no PP. This also damages the user a little."
+},
+{
+	"name":"Struggle Bug",
+	"type":7,
+	"pp":20,
+	"power":50,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit."
+},
+{
+	"name":"Stun Spore",
+	"type":12,
+	"pp":30,
+	"power":0,
+	"accuracy":75,
+	"category":3,
+	"damage":0,
+	"description":"The user scatters a cloud of numbing powder that paralyzes the target."
+},
+{
+	"name":"Submission",
+	"type":2,
+	"pp":25,
+	"power":80,
+	"accuracy":80,
+	"category":1,
+	"damage":1,
+	"description":"The user grabs the target and recklessly dives for the ground. This also damages the user a little."
+},
+{
+	"name":"Substitute",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."
+},
+{
+	"name":"Sucker Punch",
+	"type":17,
+	"pp":5,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"This move enables the user to attack first. This move fails if the target is not readying an attack."
+},
+{
+	"name":"Sunny Day",
+	"type":10,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user intensifies the sun for five turns, powering up Fire-type moves."
+},
+{
+	"name":"Super Fang",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half."
+},
+{
+	"name":"Superpower",
+	"type":2,
+	"pp":5,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks the target with great power. However, this also lowers the user's Attack and Defense stats."
+},
+{
+	"name":"Supersonic",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":55,
+	"category":3,
+	"damage":0,
+	"description":"The user generates odd sound waves from its body that confuse the target."
+},
+{
+	"name":"Surf",
+	"type":11,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks everything around it by swamping its surroundings with a giant wave. This can also be used for crossing water."
+},
+{
+	"name":"Swagger",
+	"type":1,
+	"pp":15,
+	"power":0,
+	"accuracy":90,
+	"category":3,
+	"damage":0,
+	"description":"The user enrages and confuses the target. However, this also sharply raises the target's Attack stat."
+},
+{
+	"name":"Swallow",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP."
+},
+{
+	"name":"Sweet Kiss",
+	"type":18,
+	"pp":10,
+	"power":0,
+	"accuracy":75,
+	"category":3,
+	"damage":0,
+	"description":"The user kisses the target with a sweet, angelic cuteness that causes confusion."
+},
+{
+	"name":"Sweet Scent",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"A sweet scent that harshly lowers opposing Pokémon's evasiveness. This also lures wild Pokémon if used in places such as tall gras"
+},
+{
+	"name":"Swift",
+	"type":1,
+	"pp":20,
+	"power":60,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"Star-shaped rays are shot at the opposing Pokémon. This attack never misses."
+},
+{
+	"name":"Switcheroo",
+	"type":17,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user trades held items with the target faster than the eye can follow."
+},
+{
+	"name":"Swords Dance",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat."
+},
+{
+	"name":"Synchronoise",
+	"type":14,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it."
+},
+{
+	"name":"Synthesis",
+	"type":12,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user restores its own HP. The amount of HP regained varies with the weather."
+},
+{
+	"name":"Tackle",
+	"type":1,
+	"pp":35,
+	"power":50,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"A physical attack in which the user charges and slams into the target with its whole body."
+},
+{
+	"name":"Tail Glow",
+	"type":7,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat."
+},
+{
+	"name":"Tail Slap",
+	"type":1,
+	"pp":10,
+	"power":25,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks by striking the target with its hard tail. It hits the target two to five times in a row."
+},
+{
+	"name":"Tail Whip",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat."
+},
+{
+	"name":"Tailwind",
+	"type":3,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user whips up a turbulent whirlwind that ups the Speed stat of the user and its allies for four turns."
+},
+{
+	"name":"Take Down",
+	"type":1,
+	"pp":20,
+	"power":90,
+	"accuracy":85,
+	"category":1,
+	"damage":1,
+	"description":"A reckless, full-body charge attack for slamming into the target. This also damages the user a little."
+},
+{
+	"name":"Taunt",
+	"type":17,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The target is taunted into a rage that allows it to use only attack moves for three turns."
+},
+{
+	"name":"Techno Blast",
+	"type":1,
+	"pp":5,
+	"power":120,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user fires a beam of light at its target. The move's type changes depending on the Drive the user holds."
+},
+{
+	"name":"Teeter Dance",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user performs a wobbly dance that confuses the Pokémon around it."
+},
+{
+	"name":"Telekinesis",
+	"type":14,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user makes the target float with its psychic power. The target is easier to hit for three turns."
+},
+{
+	"name":"Teleport",
+	"type":14,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"Use it to flee from any wild Pokémon. It can also warp to the last Pokémon Center visited."
+},
+{
+	"name":"Thief",
+	"type":17,
+	"pp":25,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item."
+},
+{
+	"name":"Thrash",
+	"type":1,
+	"pp":10,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user rampages and attacks for two to three turns. The user then becomes confused."
+},
+{
+	"name":"Thunder",
+	"type":13,
+	"pp":10,
+	"power":110,
+	"accuracy":70,
+	"category":2,
+	"damage":4,
+	"description":"A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis."
+},
+{
+	"name":"Thunder Fang",
+	"type":13,
+	"pp":15,
+	"power":65,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis."
+},
+{
+	"name":"Thunder Punch",
+	"type":13,
+	"pp":15,
+	"power":75,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is punched with an electrified fist. This may also leave the target with paralysis."
+},
+{
+	"name":"Thunder Shock",
+	"type":13,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis."
+},
+{
+	"name":"Thunder Wave",
+	"type":13,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user launches a weak jolt of electricity that paralyzes the target."
+},
+{
+	"name":"Thunderbolt",
+	"type":13,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A strong electric blast crashes down on the target. This may also leave the target with paralysis."
+},
+{
+	"name":"Tickle",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user tickles the target into laughing, reducing its Attack and Defense stats."
+},
+{
+	"name":"Topsy-Turvy",
+	"type":17,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"All stat changes affecting the target turn topsy-turvy and become the opposite of what they were."
+},
+{
+	"name":"Torment",
+	"type":17,
+	"pp":15,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user torments and enrages the target, making it incapable of using the same move twice in a row."
+},
+{
+	"name":"Toxic",
+	"type":4,
+	"pp":10,
+	"power":0,
+	"accuracy":90,
+	"category":3,
+	"damage":0,
+	"description":"A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+},
+{
+	"name":"Toxic Spikes",
+	"type":4,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lays a trap of poison spikes at the opposing team’s feet. They poison opposing Pokémon that switch into battle."
+},
+{
+	"name":"Transform",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user transforms into a copy of the target right down to having the same move set."
+},
+{
+	"name":"Tri Attack",
+	"type":1,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user strikes with a simultaneous three-beam attack. May also burn, freeze, or leave the target with paralysis."
+},
+{
+	"name":"Trick",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user catches the target off guard and swaps its held item with its own."
+},
+{
+	"name":"Trick Room",
+	"type":14,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user creates a bizarre area in which slower Pokémon get to move first for five turns."
+},
+{
+	"name":"Trick-or-Treat",
+	"type":8,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"The user takes the target trick-or-treating. This adds Ghost type to the target’s type."
+},
+{
+	"name":"Triple Kick",
+	"type":2,
+	"pp":10,
+	"power":10,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"A consecutive three-kick attack that becomes more powerful with each successive hit."
+},
+{
+	"name":"Trump Card",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"The fewer PP this move has, the greater its power."
+},
+{
+	"name":"Twineedle",
+	"type":7,
+	"pp":20,
+	"power":25,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user damages the target twice in succession by jabbing it with two spikes. This may also poison the target."
+},
+{
+	"name":"Twister",
+	"type":16,
+	"pp":20,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user whips up a vicious tornado to tear at the opposing Pokémon. This may also make them flinch."
+},
+{
+	"name":"U-turn",
+	"type":7,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+},
+{
+	"name":"Uproar",
+	"type":1,
+	"pp":10,
+	"power":90,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target while shouting in a startling fashion. This may also make the target flinch."
+},
+{
+	"name":"V-create",
+	"type":10,
+	"pp":5,
+	"power":180,
+	"accuracy":95,
+	"category":1,
+	"damage":1,
+	"description":"With a hot flame on its forehead, the user hurls itself at its target. This lowers the user’s Defense, Sp. Def, and Speed stats."
+},
+{
+	"name":"Vacuum Wave",
+	"type":2,
+	"pp":30,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first."
+},
+{
+	"name":"Venom Drench",
+	"type":4,
+	"pp":20,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target."
+},
+{
+	"name":"Venoshock",
+	"type":4,
+	"pp":10,
+	"power":65,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"THe user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned."
+},
+{
+	"name":"Vice Grip",
+	"type":1,
+	"pp":30,
+	"power":55,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is gripped and squeezed from both sides to inflict damage."
+},
+{
+	"name":"Vine Whip",
+	"type":12,
+	"pp":25,
+	"power":45,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is struck with slender, whiplike vines to inflict damage."
+},
+{
+	"name":"Vital Throw",
+	"type":2,
+	"pp":10,
+	"power":70,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"The user attacks last. In return, this throw move never misses."
+},
+{
+	"name":"Volt Switch",
+	"type":13,
+	"pp":20,
+	"power":70,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+},
+{
+	"name":"Volt Tackle",
+	"type":13,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user electrifies itself, then charges. This also damages the user quite a lot. This may leave the target with paralysis."
+},
+{
+	"name":"Wake-Up Slap",
+	"type":2,
+	"pp":10,
+	"power":70,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"This attack inflicts big damage on a sleeping target. This also wakes the target up, however."
+},
+{
+	"name":"Water Gun",
+	"type":11,
+	"pp":25,
+	"power":40,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The target is blasted with a forceful shot of water."
+},
+{
+	"name":"Water Pledge",
+	"type":11,
+	"pp":10,
+	"power":80,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"A column of water strikes the target. When combined with its fire equivalent, the damage increases and a rainbow appears."
+},
+{
+	"name":"Water Pulse",
+	"type":11,
+	"pp":20,
+	"power":60,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user attacks the target with a pulsing blast of water. This may also confuse the target."
+},
+{
+	"name":"Water Shuriken",
+	"type":11,
+	"pp":20,
+	"power":15,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user hits the target with throwing stars two to five times in a row. This move always goes first."
+},
+{
+	"name":"Water Sport",
+	"type":11,
+	"pp":15,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user soaks itself with water. This weakens Fire-type moves for five turns."
+},
+{
+	"name":"Water Spout",
+	"type":11,
+	"pp":5,
+	"power":150,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power."
+},
+{
+	"name":"Waterfall",
+	"type":11,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user charges at the target and may make it flinch. This can also be used to climb a waterfall."
+},
+{
+	"name":"Weather Ball",
+	"type":1,
+	"pp":10,
+	"power":50,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"An attack move that varies in power and type depending on the weather."
+},
+{
+	"name":"Whirlpool",
+	"type":11,
+	"pp":15,
+	"power":35,
+	"accuracy":85,
+	"category":2,
+	"damage":4,
+	"description":"The user traps the target in a violent swirling whirlpool for four to five turns."
+},
+{
+	"name":"Whirlwind",
+	"type":1,
+	"pp":20,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The target is blown away, and a different Pokémon is dragged out. In the wild, this ends the battle against a single Pokémon."
+},
+{
+	"name":"Wide Guard",
+	"type":6,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user and its allies are protected from wide-ranging attacks for one turn."
+},
+{
+	"name":"Wild Charge",
+	"type":13,
+	"pp":15,
+	"power":90,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user shrouds itself in electricity and smashes into its target. This also damages the user a little."
+},
+{
+	"name":"Will-O-Wisp",
+	"type":10,
+	"pp":15,
+	"power":0,
+	"accuracy":85,
+	"category":3,
+	"damage":0,
+	"description":"The user shoots a sinister, bluish-white flame at the target to inflict a burn."
+},
+{
+	"name":"Wing Attack",
+	"type":3,
+	"pp":35,
+	"power":60,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The target is struck with large, imposing wings spread wide to inflict damage."
+},
+{
+	"name":"Wish",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"One turn after this move is used, the target’s HP is restored by half the user’s max HP."
+},
+{
+	"name":"Withdraw",
+	"type":11,
+	"pp":40,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user withdraws its body into its hard shell, raising its Defense stat."
+},
+{
+	"name":"Wonder Room",
+	"type":14,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns."
+},
+{
+	"name":"Wood Hammer",
+	"type":12,
+	"pp":15,
+	"power":120,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slams its rugged body into the target to attack. This also damages the user quite a lot."
+},
+{
+	"name":"Work Up",
+	"type":1,
+	"pp":30,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user is roused, and its Attack and Sp. Atk stats increase."
+},
+{
+	"name":"Worry Seed",
+	"type":12,
+	"pp":10,
+	"power":0,
+	"accuracy":100,
+	"category":3,
+	"damage":0,
+	"description":"A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia."
+},
+{
+	"name":"Wrap",
+	"type":1,
+	"pp":20,
+	"power":15,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"A long body or vines are used to wrap and squeeze the target for four to five turns."
+},
+{
+	"name":"Wring Out",
+	"type":1,
+	"pp":5,
+	"power":0,
+	"accuracy":100,
+	"category":2,
+	"damage":4,
+	"description":"The user powerfully wrings the target. The more HP the target has, the greater the move's power."
+},
+{
+	"name":"X-Scissor",
+	"type":7,
+	"pp":15,
+	"power":80,
+	"accuracy":100,
+	"category":1,
+	"damage":1,
+	"description":"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+},
+{
+	"name":"Yawn",
+	"type":1,
+	"pp":10,
+	"power":0,
+	"accuracy":0,
+	"category":3,
+	"damage":0,
+	"description":"The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+},
+{
+	"name":"Zap Cannon",
+	"type":13,
+	"pp":5,
+	"power":120,
+	"accuracy":50,
+	"category":2,
+	"damage":4,
+	"description":"The user fires an electric blast like a cannon to inflict damage and cause paralysis."
+},
+{
+	"name":"Zen Headbutt",
+	"type":14,
+	"pp":15,
+	"power":80,
+	"accuracy":90,
+	"category":1,
+	"damage":1,
+	"description":"The user focuses its willpower to its head and attacks the target. This may also make the target flinch."
+},
+{
+	"name":"Light of Ruin",
+	"type":18,
+	"pp":5,
+	"power":140,
+	"accuracy":90,
+	"category":2,
+	"damage":4,
+	"description":"Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot."
+},
+{
+	"name":"Hyperspace Hole",
+	"type":14,
+	"pp":5,
+	"power":80,
+	"accuracy":0,
+	"category":2,
+	"damage":4,
+	"description":"Using a hyperspace hole, the user appears right next to the target and strikes. This also hits a target using Protect or Detect."
+},
+{
+	"name":"Hyperspace Fury",
+	"type":17,
+	"pp":5,
+	"power":100,
+	"accuracy":0,
+	"category":1,
+	"damage":1,
+	"description":"Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. This attack lowers the user's Defense."
+}
+]
+}

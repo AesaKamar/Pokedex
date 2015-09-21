@@ -1,0 +1,33 @@
+{
+"types":[
+{
+  "name": "None",
+  "number": 0,
+  /*          Nor Fgt Fly Poi Grn Rok Bug Gho Ste Fir Wat Grs Ele Psy Ice Drg Drk Fai */
+  "offense": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+  "defense": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0]
+},
+{
+  "name": "Normal",
+  "number": 1,
+  /*          Nor Fgt Fly Poi Grn Rok Bug Gho Ste Fir Wat Grs Ele Psy Ice Drg Drk Fai */
+  "offense": [1.0,1.0,1.0,1.0,1.0,0.5,1.0,0.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+  "defense": [1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0]
+},
+{
+  "name": "Fighting",
+  "number": 2,
+  /*          Nor Fgt Fly Poi Grn Rok Bug Gho Ste Fir Wat Grs Ele Psy Ice Drg Drk Fai */
+  "offense": [2.0,1.0,0.5,0.5,1.0,2.0,0.5,0.0,2.0,1.0,1.0,1.0,1.0,0.5,2.0,1.0,2.0,0.5],
+  "defense": [1.0,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.5,2.0]
+},
+{
+  "name": "Flying",
+  "number": 3,
+  /*          Nor Fgt Fly Poi Grn Rok Bug Gho Ste Fir Wat Grs Ele Psy Ice Drg Drk Fai */
+  "offense": [1.0,1.0,1.0,2.0,1.0,0.5,2.0,1.0,0.5,1.0,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0],
+  "defense": [1.0,0.5,1.0,1.0,0.0,2.0,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,2.0,1.0,1.0,1.0]
+},
+
+]
+}

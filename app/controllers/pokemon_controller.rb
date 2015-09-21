@@ -4,7 +4,7 @@ class PokemonController < ApplicationController
   # GET /pokemons
   # GET /pokemons.json
   def index
-	  @pokemons = Pokemon.gen1
+	  @pokemons = Pokemon.gen6
 
   end
 
