@@ -1,7 +1,7 @@
 require 'json'
 require 'pp'
 
-jsonPath = "#{Rails.root}/db/pokedex_final.json"
+jsonPath = "#{Rails.root}/db/JSONDumps"
 # jsonPath = "./pokedex_final.json"
 
 allData = JSON.parse(File.read(jsonPath))

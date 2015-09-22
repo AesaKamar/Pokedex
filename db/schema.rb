@@ -59,4 +59,11 @@ ActiveRecord::Schema.define(version: 20150303193307) do
     t.string  "form"
   end
 
+  create_table "types", force: true do |t|
+    t.string  "name"
+    t.integer "number"
+    t.float   "offense",           default: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],  array: true
+    t.float   "defense",           default: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],  array: true
+  end
+
 end
