@@ -1,5 +1,5 @@
 class TypesController < ApplicationController
-  before_action :set_type, only: [:show, :edit, :update, :destroy]
+  before_action :set_type, only: [:show]
 
   # GET /types
   # GET /types.json

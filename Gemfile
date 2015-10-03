@@ -6,6 +6,7 @@ gem 'rails'
 gem 'sqlite3'
 gem 'pg'
 # gem 'activerecord-postgres-hstore' # TODO run 'bundle exec rails g hstore:setup'
+gem 'responders', '~> 2.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails'

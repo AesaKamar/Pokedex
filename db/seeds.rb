@@ -31,6 +31,7 @@ moves.each do |move|
 	)
 	puts "Created move, #{move['name']}"
 end
+puts "\nPASSING MOVES\n"
 
 pokemon = JSON.parse(File.read(jsonPath + 'pokemon.json'))['pokemon']
 pokemon.each do |poke|
@@ -61,6 +62,7 @@ pokemon.each do |poke|
 	)
 	puts "Created Pokemon, #{poke['name']}"
 end
+puts "\nPASSING POKEMON\n"
 
 types = JSON.parse(File.read(jsonPath + 'types.json'))['types'].drop(1)
 types.each do |type|
@@ -72,5 +74,6 @@ types.each do |type|
 	)
 	puts "Created Type, #{type['name']}"
 end
+puts "\nPASSING TYPES\n"
 
 # TODO fix array structure type mismatch like 'abilities'

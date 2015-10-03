@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :types
+  
   # resources :moves
 
     with_options only: [:index, :show] do |x|
