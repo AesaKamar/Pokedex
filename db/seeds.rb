@@ -1,14 +1,12 @@
 require 'json'
 require 'pp'
 
-jsonPath = "#{Rails.root}/db/JSONDumps"
+jsonPath = "#{Rails.root}/db/JSONDumps/"
 # jsonPath = "./pokedex_final.json"
 
-allData = JSON.parse(File.read(jsonPath))
 
-
-a = allData['abilities'].drop(1)
-a.each do |ability|
+abilities = JSON.parse(File.read(jsonPath + 'abilities.json'))['abilities'].drop(1)
+abilities.each do |ability|
 	Ability.create(
 		name: 					ability['name'],
 		description: 		ability['description']
@@ -16,15 +14,11 @@ a.each do |ability|
 	puts "Created ability, #{ability['name']}"
 
 end
-
-
-
 puts "\nPASSING ABILITIES\n"
 
 
-m = allData['moves'].drop(1)
-
-m.each do |move|
+moves = JSON.parse(File.read(jsonPath + 'moves.json'))['moves'].drop(1)
+moves.each do |move|
 	Move.create(
 		name: 				move['name'],
 		types: 				move['type'],
@@ -38,40 +32,45 @@ m.each do |move|
 	puts "Created move, #{move['name']}"
 end
 
-allData['pokemon'].each do |pokemon|
-# 	#get ability array for that pokemon
-# 	abs = pokemon['abilities']
-# 	abs.map!{ |element|
-# 		Ability.find(element)
-# 	}
-
-
+pokemon = JSON.parse(File.read(jsonPath + 'pokemon.json'))['pokemon']
+pokemon.each do |poke|
 	Pokemon.create(
-		number: 					pokemon['number'],
-		name: 						pokemon['name'],
-		species: 					pokemon['species'],
-		types: 						pokemon['types'],
-		abilities: 				pokemon['abilities'],
-		genderThreshold: 	pokemon['genderThreshold'],
-		catchRate: 				pokemon['catchRate'],
-		eggGroups: 				pokemon['eggGroup'],
-		hatchCounter: 		pokemon['hatchCounter'],
-		height: 					pokemon['height'],
-		weight: 					pokemon['weight'],
-		baseExpYield: 		pokemon['baseExpYield'],
-		baseFriendship: 	pokemon['baseFriendship'],
-		expGroup: 				pokemon['expGroup'],
-		evYield: 					pokemon['evYield'],
-		bodyStyle: 				pokemon['bodyStyle'],
-		color: 						pokemon['color'],
-		baseStats: 				pokemon['baseStats'],
-		pokedexX: 				pokemon['pokedexX'],
-		pokedexY: 				pokemon['pokedexY'],
-		pokedexOR: 				pokemon['pokedexOR'],
-		pokedexAS: 				pokemon['pokedexAS'],
-		learnset: 				pokemon['learnset'].to_json
+		number: 					poke['number'],
+		name: 						poke['name'],
+		species: 					poke['species'],
+		types: 						poke['types'],
+		abilities: 				poke['abilities'],
+		genderThreshold: 	poke['genderThreshold'],
+		catchRate: 				poke['catchRate'],
+		eggGroups: 				poke['eggGroup'],
+		hatchCounter: 		poke['hatchCounter'],
+		height: 					poke['height'],
+		weight: 					poke['weight'],
+		baseExpYield: 		poke['baseExpYield'],
+		baseFriendship: 	poke['baseFriendship'],
+		expGroup: 				poke['expGroup'],
+		evYield: 					poke['evYield'],
+		bodyStyle: 				poke['bodyStyle'],
+		color: 						poke['color'],
+		baseStats: 				poke['baseStats'],
+		pokedexX: 				poke['pokedexX'],
+		pokedexY: 				poke['pokedexY'],
+		pokedexOR: 				poke['pokedexOR'],
+		pokedexAS: 				poke['pokedexAS'],
+		learnset: 				poke['learnset'].to_json
 	)
-	puts "Created Pokemon, #{pokemon['name']}"
+	puts "Created Pokemon, #{poke['name']}"
+end
+
+types = JSON.parse(File.read(jsonPath + 'types.json'))['types'].drop(1)
+types.each do |type|
+	Type.create(
+		 name: 					type['name'],
+     number: 				type['number'],
+     offense:       type['offense'],
+     defense:       type['defense']
+	)
+	puts "Created Type, #{type['name']}"
 end
 
 # TODO fix array structure type mismatch like 'abilities'
